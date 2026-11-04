@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script>
+            (function () {
+                try {
+                    var base = "/ra2581392423047/";
+                    if (location.pathname !== base) {
+                        return;
+                    }
+                    var languageByPrimarySubtag = { pt: "pt-BR", en: "en", es: "es" };
+                    var codes = [];
+                    try {
+                        codes.push(localStorage.getItem("portfolio-frontend:language"));
+                    } catch (error) {}
+                    var browserLanguages = navigator.languages || [];
+                    for (var index = 0; index < browserLanguages.length; index++) {
+                        codes.push(browserLanguages[index]);
+                    }
+                    codes.push(navigator.language);
+                    var language = "en";
+                    for (var position = 0; position < codes.length; position++) {
+                        if (!codes[position]) {
+                            continue;
+                        }
+                        var primarySubtag = String(codes[position]).toLowerCase().split("-")[0];
+                        if (
+                            Object.prototype.hasOwnProperty.call(
+                                languageByPrimarySubtag,
+                                primarySubtag
+                            )
+                        ) {
+                            language = languageByPrimarySubtag[primarySubtag];
+                            break;
+                        }
+                    }
+                    location.replace(base + language + location.search + location.hash);
+                } catch (error) {}
+            })();
+        </script>
+        <meta name="theme-color" content="#fbf9f5" media="(prefers-color-scheme: light)" />
+        <meta name="theme-color" content="#141210" media="(prefers-color-scheme: dark)" />
+        <script>
+            (function () {
+                try {
+                    var theme = "light";
+                    var saved = null;
+                    try {
+                        saved = localStorage.getItem("portfolio-frontend:theme");
+                    } catch (error) {}
+                    if (saved === "light" || saved === "dark") {
+                        theme = saved;
+                    } else {
+                        try {
+                            if (matchMedia("(prefers-color-scheme: dark)").matches) {
+                                theme = "dark";
+                            }
+                        } catch (error) {}
+                    }
+                    var color = theme === "dark" ? "#141210" : "#fbf9f5";
+                    document.documentElement.setAttribute("data-theme", theme);
+                    var metas = document.querySelectorAll('meta[name="theme-color"]');
+                    for (var index = 0; index < metas.length; index++) {
+                        metas[index].removeAttribute("media");
+                        metas[index].setAttribute("content", color);
+                    }
+                } catch (error) {}
+            })();
+        </script>
+        <script>
+            (function () {
+                try {
+                    var motion = "full";
+                    var saved = null;
+                    try {
+                        saved = localStorage.getItem("portfolio-frontend:motion");
+                    } catch (error) {}
+                    if (saved === "full" || saved === "reduced") {
+                        motion = saved;
+                    } else {
+                        try {
+                            if (matchMedia("(prefers-reduced-motion: reduce)").matches) {
+                                motion = "reduced";
+                            }
+                        } catch (error) {}
+                    }
+                    document.documentElement.setAttribute("data-motion", motion);
+                } catch (error) {}
+            })();
+        </script>
+        
+        
+        <link rel="icon" type="image/svg+xml" href="/ra2581392423047/favicon.svg" />
+        <link
+            rel="preload"
+            as="font"
+            type="font/woff2"
+            href="/ra2581392423047/fonts/ibm-plex-sans-latin-400-normal.woff2"
+            crossorigin
+        />
+        <link
+            rel="preload"
+            as="font"
+            type="font/woff2"
+            href="/ra2581392423047/fonts/bricolage-grotesque-latin-opsz-normal.woff2"
+            crossorigin
+        />
+      <script type="module" crossorigin src="/ra2581392423047/assets/index-BKbReyFt.js"></script>
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/rolldown-runtime-XKyaHtl9.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/resolveSupportedLanguage-E3OeWk2y.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/paths-Bns5_OuC.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/button.module-BmOyic-a.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/VisuallyHidden-D3buVt4r.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/api-J4XnMwBc.js">
+      <link rel="stylesheet" crossorigin href="/ra2581392423047/assets/button-cjUSWeuU.css">
+      <link rel="stylesheet" crossorigin href="/ra2581392423047/assets/VisuallyHidden-BdiJA5wq.css">
+      <link rel="stylesheet" crossorigin href="/ra2581392423047/assets/api-DLWgoctt.css">
+      <link rel="stylesheet" crossorigin href="/ra2581392423047/assets/index-CLsuzY1M.css">
+    <title>Contacto · Luiz Felipe dos Santos</title><meta name="description" content="Cómo hablar con Luiz Felipe dos Santos: correo electrónico y currículo."/><link rel="canonical" href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/contact"/><link rel="alternate" hrefLang="pt-BR" href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/contact"/><link rel="alternate" hrefLang="en" href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/contact"/><link rel="alternate" hrefLang="es" href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/contact"/><link rel="alternate" hrefLang="x-default" href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/contact"/><meta property="og:title" content="Contacto · Luiz Felipe dos Santos"/><meta property="og:description" content="Cómo hablar con Luiz Felipe dos Santos: correo electrónico y currículo."/><meta property="og:type" content="website"/><meta property="og:url" content="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/contact"/><meta property="og:image" content="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/images/og-site.png"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image:alt" content="Gato junto al nombre Luiz Felipe dos Santos"/><meta property="og:locale" content="es_ES"/><meta property="og:locale:alternate" content="pt_BR"/><meta property="og:locale:alternate" content="en_US"/><meta name="twitter:card" content="summary_large_image"/><link rel="stylesheet" crossorigin href="/ra2581392423047/assets/AvailabilityBadge-KaWf6362.css"><link rel="stylesheet" crossorigin href="/ra2581392423047/assets/Contact-1NYgzEJD.css"></head>
+    <body>
+        <noscript>La búsqueda, los filtros y el cambio de idioma y de tema necesitan JavaScript. El contenido de esta página está disponible sin él.</noscript>
+        <div id="root"><div class="_layout_lqpro_1"><a href="#main-content" class="_skipLink_lyn4m_1">Saltar al contenido</a><header class="_header_nhkk2_1"><div class="_bar_nhkk2_9"><a class="_brand_nhkk2_21" href="/ra2581392423047/es" data-discover="true"><svg class="_catLogo_uu13k_1" height="24" viewBox="0 0 29 24" fill="none" aria-hidden="true" focusable="false"><path class="_body_uu13k_7" d="M10.8029 20.9502C10.3832 20.4341 9.97153 19.4537 9.80526 18.6224C11.9668 18.6224 14.2386 18.6972 15.9573 19.1212C16.8176 19.3334 17.2174 20.3664 17.9526 21.1841C17.042 21.6325 12.5448 22.0968 10.8029 20.9502Z"></path><path class="_body_uu13k_7" d="M15.2355 12.0418C13.6002 12.3807 11.9514 12.6261 10.2958 12.8105C8.42476 13.0189 6.54759 13.1726 4.59301 13.2488C2.86314 5.92921 9.65772 -0.496858 15.0463 0.0303151C13.1467 4.03749 12.7883 8.02214 15.2355 12.0418Z"></path><path class="_body_uu13k_7" d="M23.0346 16.9611C22.2846 16.423 21.6377 15.8312 20.9843 15.124C21.8832 15.1441 22.7889 15.2797 23.9564 15.4544C23.6378 16.0198 23.3878 16.4637 23.0346 16.9611Z"></path><path class="_detail_uu13k_11" d="M12.9886 20.9086C12.8942 21.6944 12.8715 22.4993 12.6699 23.2566C12.5895 23.5586 12.1137 23.7553 11.8179 24C11.7333 23.6696 11.6238 23.3433 11.5697 23.008C11.4839 22.4762 11.5093 21.9164 11.3583 21.4068C10.5576 18.7045 8.65091 18.4035 6.16377 20.1454C4.46847 21.3328 2.78107 22.5326 1.05443 23.6728C0.805803 23.837 0.356457 23.6972 0 23.6981C0.190841 23.3719 0.326413 22.992 0.582358 22.7292C1.54566 21.7404 2.71044 20.9028 3.48532 19.7896C4.12089 18.8766 4.3101 17.6529 4.79293 16.2982C3.65926 16.2446 2.96075 16.2168 2.26289 16.1775C0.996321 16.1062 0.339162 15.5788 0.97658 14.2661C1.34608 13.5052 1.61576 13.0631 1.89687 12.5815C1.93975 12.5081 1.65036 12.1011 1.69416 12.0246C1.92575 12.0445 2.64523 12.1736 2.85806 12.1909C3.97755 12.2816 4.7141 12.5657 5.85095 12.6897C7.90724 12.5591 10.1743 12.0746 12.0453 11.8662C13.7009 11.6817 15.3497 11.4363 17.0015 11.2179C18.0733 11.2769 19.2574 11.6534 20.1913 11.3229C21.7203 10.7818 23.1572 9.88176 24.4986 8.94143C25.5485 8.20535 25.7887 7.08116 25.3893 5.75708C24.7141 3.51888 25.7677 2.11269 27.375 2.3548C27.1483 4.14643 26.9758 5.9151 26.6738 7.66135C26.5763 8.22512 26.21 8.78754 25.8404 9.24951C25.1223 10.147 24.2025 10.902 23.5959 11.8612C23.3281 12.2847 23.5502 13.0781 23.6816 13.6744C23.7823 14.1312 24.0898 14.5424 24.3289 15.2163C24.9994 16.0505 25.6462 16.6423 26.2931 17.2341C27.0786 18.8347 27.9095 20.4158 28.6123 22.0519C28.7572 22.3892 28.424 22.9317 28.1273 23.4122C26.9457 20.9949 25.6031 19.0451 22.5549 19.5279C22.6713 22.5123 20.3204 24.6979 18.0863 23.7844C18.7693 23.0651 19.4494 22.3489 20.0547 21.4474C19.2428 20.5726 18.603 19.4872 17.7482 19.2774C16.0403 18.858 14.1434 18.9568 11.9715 18.7887C12.3791 19.7185 12.7194 20.2945 12.9886 20.9086Z"></path></svg><span>Luiz Felipe dos Santos</span></a><nav aria-label="Principal" class="_desktopNav_nhkk2_55"><a class="_link_nhkk2_37" href="/ra2581392423047/es" data-discover="true">Inicio</a><a class="_link_nhkk2_37" href="/ra2581392423047/es/projects" data-discover="true">Proyectos</a><a class="_link_nhkk2_37" href="/ra2581392423047/es/about" data-discover="true">Información</a><a class="_link_nhkk2_37" aria-current="page" href="/ra2581392423047/es/contact" data-discover="true">Contacto</a><span aria-hidden="true" class="_indicator_nhkk2_68 " style="opacity:0"></span></nav><div class="_desktopControls_nhkk2_84"><div class="_selector_1g4q9_1 "><button type="button" class="_toggle_1g4q9_6" aria-expanded="false" aria-label="Idioma: Español"><svg class="_flag_1u2jf_1" viewBox="0 0 24 16" width="24" height="16" aria-hidden="true" focusable="false"><rect width="24" height="16" fill="#ffffff"></rect><rect width="8" height="16" fill="#006847"></rect><rect x="16" width="8" height="16" fill="#ce1126"></rect><ellipse cx="12" cy="8" rx="2.2" ry="2" fill="#8c6b3f"></ellipse><path d="M9.8 10.2c1.4 1.2 3 1.2 4.4 0" fill="none" stroke="#006847" stroke-width="0.6"></path></svg><svg class="_icon_118w5_1" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"></path></svg></button></div><div class="_menu_1uoom_1"><button aria-expanded="false" type="button" class="_iconButton_v0jab_1" aria-label="Configuración"><svg class="_icon_118w5_1" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"></path><circle cx="12" cy="12" r="3"></circle></svg></button></div></div><div class="_menuToggle_nhkk2_90"><button aria-expanded="false" aria-controls="_R_1_" type="button" class="_iconButton_v0jab_1" aria-label="Menú"><svg class="_icon_118w5_1" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 6h16"></path><path d="M4 12h16"></path><path d="M4 18h16"></path></svg></button></div></div><div id="_R_1_" class="_panel_nhkk2_94" hidden=""><nav aria-label="Principal" class="_panelNav_nhkk2_123"><a class="_link_nhkk2_37" href="/ra2581392423047/es" data-discover="true">Inicio</a><a class="_link_nhkk2_37" href="/ra2581392423047/es/projects" data-discover="true">Proyectos</a><a class="_link_nhkk2_37" href="/ra2581392423047/es/about" data-discover="true">Información</a><a class="_link_nhkk2_37" aria-current="page" href="/ra2581392423047/es/contact" data-discover="true">Contacto</a></nav><div class="_group_nhkk2_140"><p class="_label_nhkk2_146">Idioma</p><div class="_selector_1g4q9_1 _block_1g4q9_35"><button type="button" class="_toggle_1g4q9_6" aria-expanded="false" aria-label="Idioma: Español"><svg class="_flag_1u2jf_1" viewBox="0 0 24 16" width="24" height="16" aria-hidden="true" focusable="false"><rect width="24" height="16" fill="#ffffff"></rect><rect width="8" height="16" fill="#006847"></rect><rect x="16" width="8" height="16" fill="#ce1126"></rect><ellipse cx="12" cy="8" rx="2.2" ry="2" fill="#8c6b3f"></ellipse><path d="M9.8 10.2c1.4 1.2 3 1.2 4.4 0" fill="none" stroke="#006847" stroke-width="0.6"></path></svg><svg class="_icon_118w5_1" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"></path></svg></button></div></div><div class="_group_nhkk2_140"><p class="_label_nhkk2_146">Tema</p><button type="button" class="_labeled_5mq37_1" aria-pressed="false"><svg class="_icon_118w5_1" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path></svg>Tema oscuro</button></div><div class="_group_nhkk2_140"><p class="_label_nhkk2_146">Accesibilidad</p><button type="button" class="_labeled_5mq37_1" aria-pressed="false"><svg class="_icon_118w5_1" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg>Reducir movimiento</button></div></div></header><main id="main-content" tabindex="-1" class="_content_lqpro_8"><!--$--><script type="application/ld+json">{"@context":"https://schema.org","@type":"ContactPage","name":"Contacto · Luiz Felipe dos Santos","description":"Cómo hablar con Luiz Felipe dos Santos: correo electrónico y currículo.","url":"https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/contact","inLanguage":"es","mainEntity":{"@type":"Person","@id":"https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es#person","name":"Luiz Felipe dos Santos","email":"mailto:contact.felipesant@gmail.com","sameAs":["https://github.com/felipe-sant/","https://www.linkedin.com/in/lfelipesant/"]}}</script><div class="_containerDirect_9cjoo_8 _container_9cjoo_1"><div class="_header_9cjoo_14"><div class="_badgeSlot_9cjoo_22"><span class="_badge_yig9w_1"><span class="_dot_yig9w_14" aria-hidden="true"></span>Buscando nuevos proyectos y trabajos</span></div><h1 id="contact-heading" tabindex="-1" class="_heading_9cjoo_26">Contacto</h1><p class="_lede_9cjoo_40">Proyecto, freelance o empleo: escribe a mi correo contándome el contexto y el plazo.</p></div><div class="_direct_9cjoo_48"><div class="_channels_9cjoo_63"><div class="_channels_6xeit_1"><div class="_block_6xeit_8"><h2 class="_label_6xeit_15">Correo directo</h2><p class="_email_6xeit_25">contact.felipesant@gmail.com</p><div class="_actions_6xeit_33"><span class="_wrapper_lvqla_1"><button type="button" class="_button_wc5dj_1 _secondary_wc5dj_56 _md_wc5dj_39"><svg class="_icon_118w5_1" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="8" y="8" width="14" height="14" rx="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg>Copiar correo</button><span class="_visuallyHidden_1c3se_1" role="status"></span></span><a href="mailto:contact.felipesant@gmail.com" class="_button_wc5dj_1 _primary_wc5dj_50 _md_wc5dj_39 _mailLink_6xeit_40"><svg class="_icon_118w5_1" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg>Enviar correo</a></div></div><div class="_pair_6xeit_50"><div class="_block_6xeit_8"><h2 class="_label_6xeit_15">Ubicación</h2><p class="_value_6xeit_56">São José dos Campos · SP</p><p class="_detail_6xeit_62">Híbrido</p></div><div class="_block_6xeit_8"><h2 class="_label_6xeit_15">Respuesta</h2><p class="_value_6xeit_56">En hasta 3 días</p><p class="_detail_6xeit_62">Huso horario UTC-3</p></div></div><div class="_resume_6xeit_74"><button disabled="" aria-label="Descargar CV (PDF), no disponible por ahora" type="button" class="_button_wc5dj_1 _secondary_wc5dj_56 _md_wc5dj_39"><svg class="_icon_118w5_1" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><path d="m7 10 5 5 5-5"></path><path d="M12 15V3"></path></svg>Descargar CV</button></div></div></div></div></div><!--/$--></main><footer class="_footer_2fcpe_1"><div class="_inner_2fcpe_16"><div class="_column_2fcpe_26"><p class="_label_2fcpe_33">Navegación</p><nav aria-label="Pie de página"><ul class="_list_2fcpe_81"><li><a class="_textLink_2fcpe_90" href="/ra2581392423047/es" data-discover="true">Inicio</a></li><li><a class="_textLink_2fcpe_90" href="/ra2581392423047/es/projects" data-discover="true">Proyectos</a></li><li><a class="_textLink_2fcpe_90" href="/ra2581392423047/es/about" data-discover="true">Información</a></li></ul></nav></div><div class="_column_2fcpe_26"><p class="_label_2fcpe_33">Redes</p><ul class="_list_2fcpe_81"><li><a href="https://github.com/felipe-sant/" target="_blank" rel="noopener noreferrer" class="_textLink_2fcpe_90" aria-label="GitHub de Luiz Felipe dos Santos (se abre en una pestaña nueva)"><span>GitHub</span><span aria-hidden="true">↗</span></a></li><li><a href="https://www.linkedin.com/in/lfelipesant/" target="_blank" rel="noopener noreferrer" class="_textLink_2fcpe_90" aria-label="LinkedIn de Luiz Felipe dos Santos (se abre en una pestaña nueva)"><span>LinkedIn</span><span aria-hidden="true">↗</span></a></li><li><button type="button" disabled="" class="_resume_2fcpe_91" aria-label="Currículum en PDF, no disponible por ahora"><span aria-hidden="true">Currículum en PDF</span><span aria-hidden="true">↓</span></button></li></ul></div></div><div class="_bottom_2fcpe_115"><div class="_bottomInner_2fcpe_119"><p>© 2026 · Luiz Felipe dos Santos</p><p>v0.1.0</p></div></div></footer></div></div><script>window.prerenderedPath="/ra2581392423047/es/contact";window.preloadedState={"api":{"queries":{"getProfile({\"lang\":\"es\"})":{"status":"fulfilled","endpointName":"getProfile","requestId":"G0TRjAgs8B4KKFDnVcNXX","originalArgs":{"lang":"es"},"startedTimeStamp":1793805575557,"data":{"role":"Pasante de Desarrollo Frontend","homeIntro":"Estudiante de Desarrollo de Software Multiplataforma y pasante de desarrollo frontend, construyendo productos reales con React, TypeScript y Node.js.","summary":"Soy Luiz Felipe dos Santos, desarrollador full stack, con actuación principal en frontend, y estudiante de Desarrollo de Software Multiplataforma en la Fatec. Trabajo con React, TypeScript y Node.js en el desarrollo de aplicaciones web, con experiencia en integración de APIs REST, bases de datos SQL/NoSQL y metodologías ágiles. Aquí encontrarás mi trayectoria, proyectos y habilidades técnicas.","location":{"city":"São José dos Campos","region":"SP","countryCode":"BR","detail":"Híbrido"},"availability":{"isAvailable":true,"label":"Buscando nuevos proyectos y trabajos"},"photo":{"large":{"src":"images/profile/photo-large.webp","width":362,"height":362},"small":{"src":"images/profile/photo-small.webp","width":320,"height":320}},"aboutParagraphs":["Hice un curso de informática en Microcamp, pero fue en la secundaria, en la Etec, donde le tomé gusto a la tecnología y tuve mi primer contacto con la programación, las bases de datos y las metodologías ágiles. Hoy estudio Desarrollo de Software Multiplataforma en la Fatec, ya en el 6.º semestre, y de allí viene buena parte de los fundamentos que uso en el día a día.","Actualmente soy pasante de desarrollo en InCicle, donde trabajo en distintos módulos de producto dentro de una arquitectura de micro frontends, pasando por varios frentes de entrega, desde la implementación de nuevas features hasta la evolución de versiones de módulos ya existentes. Trabajo con React, TypeScript y Node.js en el ciclo completo de desarrollo, desde el relevamiento de reglas con el equipo de producto hasta el despliegue en producción.","En el día a día, me gusta entender bien el contexto de cada entrega antes de implementar, discutiendo las reglas de negocio directamente con quien define el producto para garantizar que la solución técnica realmente atienda la necesidad del usuario. También uso herramientas de Inteligencia Artificial en el flujo de desarrollo, no solo para escribir código más rápido, sino para mantener la calidad y la organización de lo que entrego.","Estoy en un momento de mucho crecimiento técnico, buscando evolucionar de pasante a una posición junior y, a mediano plazo, semisenior. Me gusta aprender haciendo, así que buena parte de lo que sé vino de poner manos a la obra en proyectos reales, dentro y fuera del trabajo."],"workPrinciples":["Discuto las reglas con el PO antes de implementar, no solo sigo lo que está escrito en la tarea","Divido las features grandes en partes más pequeñas antes de empezar","Uso IA en el flujo de desarrollo, con agentes y skills para planificar, implementar y revisar lo que entrego, no solo para escribir código más rápido"],"stack":[{"category":"frontend","items":[{"name":"React","isPrimary":true},{"name":"TypeScript"},{"name":"Redux"},{"name":"Module Federation"},{"name":"JavaScript"},{"name":"HTML5"},{"name":"CSS3"}]},{"category":"backend","items":[{"name":"Node.js"},{"name":"Express"},{"name":"PostgreSQL"},{"name":"MongoDB"},{"name":"Redis"},{"name":"Python"},{"name":"scikit-learn"},{"name":"ONNX"}]},{"category":"tooling","items":[{"name":"Docker"},{"name":"Jest"},{"name":"AWS"},{"name":"Linux"}]}],"contact":{"email":"contact.felipesant@gmail.com","responseTime":{"label":"En hasta 3 días","detail":"Huso horario UTC-3"}},"links":{"github":"https://github.com/felipe-sant/","linkedin":"https://www.linkedin.com/in/lfelipesant/"}},"fulfilledTimeStamp":1793805575558}},"mutations":{},"provided":{"tags":{},"keys":{"getProfile({\"lang\":\"es\"})":[]}},"subscriptions":{},"config":{"online":true,"focused":true,"middlewareRegistered":true,"refetchOnFocus":false,"refetchOnReconnect":false,"refetchOnMountOrArgChange":false,"keepUnusedDataFor":60,"reducerPath":"api","invalidationBehavior":"delayed"}}};window.routerData={"loaderData":{"2":null},"actionData":null,"errors":null}</script>
+    </body>
+</html>

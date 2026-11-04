@@ -1,0 +1,170 @@
+{
+    "items": [
+        {
+            "id": "01a13157-51e9-72f2-bf6d-68dd797d4b8c",
+            "kind": "experience",
+            "title": "Pasante de Desarrollo Frontend",
+            "organization": "InCicle",
+            "details": ["Pasantía · Híbrido"],
+            "start": "2026-05",
+            "summary": "Actuación principalmente en frontend, con incursiones en el backend, en un squad ágil, pasando por distintos módulos de producto dentro de una arquitectura de micro frontends, desde la implementación de nuevas features hasta la evolución de versiones ya existentes. Desarrollo con React, TypeScript y Node.js, integración de APIs REST y trabajo con bases de datos SQL y NoSQL. Revisión de Pull Requests, pruebas de QA y resolución de hotfixes en producción.",
+            "responsibilities": [
+                "Desarrollo de features con React, TypeScript y Node.js",
+                "Integración de APIs REST internas y externas",
+                "Trabajo con bases de datos SQL y NoSQL",
+                "Revisión de Pull Requests de compañeros del squad",
+                "Ejecución de pruebas de QA en tareas propias y ajenas",
+                "Resolución de hotfixes urgentes en producción",
+                "Mantenimiento de repositorios"
+            ],
+            "disciplines": [],
+            "technologies": [
+                "React",
+                "TypeScript",
+                "Node.js",
+                "Express",
+                "PostgreSQL",
+                "MongoDB",
+                "Redis",
+                "Git",
+                "Docker"
+            ],
+            "certificates": [],
+            "projectIds": []
+        },
+        {
+            "id": "01a1315b-9b4d-7c46-ab3c-1b19b4ac6e00",
+            "kind": "experience",
+            "title": "Auxiliar Pedagógico (Programa Joven Aprendiz)",
+            "organization": "Poliedro Educação",
+            "details": ["Joven Aprendiz · Presencial"],
+            "start": "2024-06",
+            "end": "2026-04",
+            "summary": "Gestión y control de los datos de asistencia de los grupos, con formato y organización de materiales de clase y apoyo a las demás áreas del departamento pedagógico.",
+            "responsibilities": [
+                "Gestión y control de las faltas de los grupos",
+                "Seguimiento y envío periódico de información de asistencia",
+                "Formato y organización de materiales de clase a pedido de los profesores",
+                "Apoyo a las demás áreas del departamento pedagógico"
+            ],
+            "disciplines": [],
+            "technologies": [],
+            "certificates": [],
+            "projectIds": []
+        },
+        {
+            "id": "01a1315e-6dfb-7822-88a2-13dfaf7252a5",
+            "kind": "education",
+            "title": "Tecnólogo en Desarrollo de Software Multiplataforma",
+            "organization": "Fatec – Faculdade de Tecnologia do Estado de São Paulo (Jacareí)",
+            "stage": "6.º semestre",
+            "details": ["Finalización prevista en 2027"],
+            "start": "2023-02",
+            "summary": "Formación en desarrollo de software con foco en lógica de programación, POO, frameworks web y buenas prácticas de código, incluyendo proyectos académicos y en alianza con empresas.",
+            "responsibilities": [],
+            "disciplines": [
+                "Matemática para Computación",
+                "Álgebra Lineal",
+                "Lógica y Algoritmos",
+                "Programación Desktop, Web y Mobile",
+                "Laboratorio de Desarrollo Web",
+                "Programación Orientada a Objetos (POO)",
+                "Estructuras de Datos",
+                "Ingeniería de Software",
+                "Metodologías Ágiles",
+                "Gestión de Proyectos",
+                "Redacción Técnica",
+                "Ética",
+                "Bases de Datos",
+                "Computación en la Nube (Cloud)",
+                "Inteligencia Artificial (IA)",
+                "Internet de las Cosas (IoT)",
+                "Seguridad de la Información",
+                "Experiencia del Usuario (UX/CX)",
+                "Inglés"
+            ],
+            "technologies": ["TypeScript", "React", "SQL", "Python"],
+            "certificates": [],
+            "projectIds": []
+        },
+        {
+            "id": "01a13167-0629-7157-b596-2802e8ef08cb",
+            "kind": "education",
+            "title": "Técnico en Desarrollo de Sistemas",
+            "organization": "Etec – Escola Técnica Estadual Professora Ilza Nascimento Pintus (São José dos Campos)",
+            "details": ["Concluido"],
+            "start": "2020-01",
+            "end": "2022-12",
+            "summary": "Curso técnico integrado a la secundaria, con el primer contacto práctico en desarrollo de sistemas: lógica de programación, HTML, CSS, JavaScript y metodologías ágiles.",
+            "responsibilities": [],
+            "disciplines": [
+                "Programación y Algoritmos",
+                "Desarrollo de Sistemas",
+                "Programación Web",
+                "Programación de Aplicaciones Mobile",
+                "Sistemas Embebidos",
+                "Bases de Datos",
+                "Fundamentos de la Informática",
+                "Internet, Protocolos y Seguridad",
+                "Análisis y Diseño de Sistemas",
+                "Diseño Digital",
+                "Calidad y Pruebas de Software",
+                "Trabajo de Conclusión de Curso (TCC)",
+                "Lenguaje, Trabajo y Tecnología",
+                "Inglés Instrumental",
+                "Ética y Ciudadanía Organizacional",
+                "Operación de Software de Aplicación"
+            ],
+            "technologies": ["Python", "C#", "PHP", "JavaScript", "HTML5", "CSS3"],
+            "certificates": [],
+            "projectIds": []
+        },
+        {
+            "id": "01a13179-ebda-7b9e-af01-85890b200754",
+            "kind": "course",
+            "title": "Gestores del Futuro",
+            "organization": "Expro",
+            "details": ["Joven Aprendiz"],
+            "start": "2024-06",
+            "end": "2026-04",
+            "summary": "Programa de desarrollo personal y profesional del Joven Aprendiz, con foco en habilidades blandas y en la construcción de un perfil más competitivo para el mercado laboral.",
+            "responsibilities": [],
+            "disciplines": [],
+            "technologies": [],
+            "certificates": [
+                {
+                    "id": "01a1326b-4068-7ac8-9c17-134f9e079f77",
+                    "name": "Gestores del Futuro",
+                    "issuer": "Expro"
+                }
+            ],
+            "projectIds": []
+        },
+        {
+            "id": "01a13183-b0db-783c-9369-f97e9403e507",
+            "kind": "course",
+            "title": "Informática",
+            "organization": "Microcamp São José dos Campos",
+            "details": ["200 horas"],
+            "start": "2017-01",
+            "end": "2019-12",
+            "summary": "Curso de informática, con actuación como monitor ayudando a profesores y alumnos en las clases durante 200 horas.",
+            "responsibilities": [],
+            "disciplines": [],
+            "technologies": [],
+            "certificates": [
+                {
+                    "id": "01a1326b-4068-72d0-b866-8d9744961d4a",
+                    "name": "Monitoría en Informática",
+                    "issuer": "Microcamp"
+                },
+                {
+                    "id": "01a1326b-4068-75f6-a6cd-4424d2dd0262",
+                    "name": "Monitoría en Robótica",
+                    "issuer": "Microcamp"
+                }
+            ],
+            "projectIds": []
+        }
+    ]
+}

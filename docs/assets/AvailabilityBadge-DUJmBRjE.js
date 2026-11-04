@@ -1,0 +1,1 @@
+import{n as e}from"./resolveSupportedLanguage-E3OeWk2y.js";var t={badge:`_badge_yig9w_1`,dot:`_dot_yig9w_14`},n=e();function r({label:e}){return(0,n.jsxs)(`span`,{className:t.badge,children:[(0,n.jsx)(`span`,{className:t.dot,"aria-hidden":`true`}),e]})}export{r as t};

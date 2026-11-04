@@ -1,1 +1,132 @@
-<!doctype html><html lang="pt-br"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link rel="icon" href="/ra2581392423047/gato.svg" sizes="16x16"/><link rel="icon" href="/ra2581392423047/gato.svg" sizes="32x32"/><link rel="apple-touch-icon" href="/ra2581392423047/gato.svg"/><link rel="manifest" href="/ra2581392423047/manifest.json"/><title>Portfolio | Luiz Felipe</title><script defer="defer" src="/ra2581392423047/static/js/main.96a4b228.js"></script><link href="/ra2581392423047/static/css/main.77c1dc4c.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
+<!doctype html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script>
+            (function () {
+                try {
+                    var base = "/ra2581392423047/";
+                    if (location.pathname !== base) {
+                        return;
+                    }
+                    var languageByPrimarySubtag = { pt: "pt-BR", en: "en", es: "es" };
+                    var codes = [];
+                    try {
+                        codes.push(localStorage.getItem("portfolio-frontend:language"));
+                    } catch (error) {}
+                    var browserLanguages = navigator.languages || [];
+                    for (var index = 0; index < browserLanguages.length; index++) {
+                        codes.push(browserLanguages[index]);
+                    }
+                    codes.push(navigator.language);
+                    var language = "en";
+                    for (var position = 0; position < codes.length; position++) {
+                        if (!codes[position]) {
+                            continue;
+                        }
+                        var primarySubtag = String(codes[position]).toLowerCase().split("-")[0];
+                        if (
+                            Object.prototype.hasOwnProperty.call(
+                                languageByPrimarySubtag,
+                                primarySubtag
+                            )
+                        ) {
+                            language = languageByPrimarySubtag[primarySubtag];
+                            break;
+                        }
+                    }
+                    location.replace(base + language + location.search + location.hash);
+                } catch (error) {}
+            })();
+        </script>
+        <meta name="theme-color" content="#fbf9f5" media="(prefers-color-scheme: light)" />
+        <meta name="theme-color" content="#141210" media="(prefers-color-scheme: dark)" />
+        <script>
+            (function () {
+                try {
+                    var theme = "light";
+                    var saved = null;
+                    try {
+                        saved = localStorage.getItem("portfolio-frontend:theme");
+                    } catch (error) {}
+                    if (saved === "light" || saved === "dark") {
+                        theme = saved;
+                    } else {
+                        try {
+                            if (matchMedia("(prefers-color-scheme: dark)").matches) {
+                                theme = "dark";
+                            }
+                        } catch (error) {}
+                    }
+                    var color = theme === "dark" ? "#141210" : "#fbf9f5";
+                    document.documentElement.setAttribute("data-theme", theme);
+                    var metas = document.querySelectorAll('meta[name="theme-color"]');
+                    for (var index = 0; index < metas.length; index++) {
+                        metas[index].removeAttribute("media");
+                        metas[index].setAttribute("content", color);
+                    }
+                } catch (error) {}
+            })();
+        </script>
+        <script>
+            (function () {
+                try {
+                    var motion = "full";
+                    var saved = null;
+                    try {
+                        saved = localStorage.getItem("portfolio-frontend:motion");
+                    } catch (error) {}
+                    if (saved === "full" || saved === "reduced") {
+                        motion = saved;
+                    } else {
+                        try {
+                            if (matchMedia("(prefers-reduced-motion: reduce)").matches) {
+                                motion = "reduced";
+                            }
+                        } catch (error) {}
+                    }
+                    document.documentElement.setAttribute("data-motion", motion);
+                } catch (error) {}
+            })();
+        </script>
+        <meta
+            name="description"
+            content="Portfólio de Luiz Felipe dos Santos, desenvolvedor full stack em TypeScript: projetos, trajetória e contato."
+        />
+        <title>Luiz Felipe dos Santos · Desenvolvedor full stack</title>
+        <link rel="icon" type="image/svg+xml" href="/ra2581392423047/favicon.svg" />
+        <link
+            rel="preload"
+            as="font"
+            type="font/woff2"
+            href="/ra2581392423047/fonts/ibm-plex-sans-latin-400-normal.woff2"
+            crossorigin
+        />
+        <link
+            rel="preload"
+            as="font"
+            type="font/woff2"
+            href="/ra2581392423047/fonts/bricolage-grotesque-latin-opsz-normal.woff2"
+            crossorigin
+        />
+      <script type="module" crossorigin src="/ra2581392423047/assets/index-BKbReyFt.js"></script>
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/rolldown-runtime-XKyaHtl9.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/resolveSupportedLanguage-E3OeWk2y.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/paths-Bns5_OuC.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/button.module-BmOyic-a.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/VisuallyHidden-D3buVt4r.js">
+      <link rel="modulepreload" crossorigin href="/ra2581392423047/assets/api-J4XnMwBc.js">
+      <link rel="stylesheet" crossorigin href="/ra2581392423047/assets/button-cjUSWeuU.css">
+      <link rel="stylesheet" crossorigin href="/ra2581392423047/assets/VisuallyHidden-BdiJA5wq.css">
+      <link rel="stylesheet" crossorigin href="/ra2581392423047/assets/api-DLWgoctt.css">
+      <link rel="stylesheet" crossorigin href="/ra2581392423047/assets/index-CLsuzY1M.css">
+    </head>
+    <body>
+        <noscript
+            >Busca, filtros, troca de idioma e de tema precisam de JavaScript. O conteúdo desta
+            página está disponível sem ele.</noscript
+        >
+        <div id="root"></div>
+    </body>
+</html>

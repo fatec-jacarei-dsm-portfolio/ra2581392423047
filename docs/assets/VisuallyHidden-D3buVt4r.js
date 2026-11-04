@@ -1,0 +1,1 @@
+import{n as e}from"./resolveSupportedLanguage-E3OeWk2y.js";var t={visuallyHidden:`_visuallyHidden_1c3se_1`},n=e();function r({children:e,as:r=`span`,role:i}){return(0,n.jsx)(r,{className:t.visuallyHidden,role:i,children:e})}export{t as n,r as t};

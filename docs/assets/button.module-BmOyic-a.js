@@ -1,0 +1,1 @@
+var e={button:`_button_wc5dj_1`,sm:`_sm_wc5dj_34`,md:`_md_wc5dj_39`,lg:`_lg_wc5dj_44`,primary:`_primary_wc5dj_50`,secondary:`_secondary_wc5dj_56`,ghost:`_ghost_wc5dj_78`,fullWidth:`_fullWidth_wc5dj_89`};export{e as t};

@@ -1,0 +1,124 @@
+{
+    "role": "Frontend Development Intern",
+    "homeIntro": "Multiplatform Software Development student and frontend development intern, building real products with React, TypeScript and Node.js.",
+    "summary": "I am Luiz Felipe dos Santos, a full stack developer who works mainly on the frontend, and a Multiplatform Software Development student at Fatec. I work with React, TypeScript and Node.js building web applications, with experience in REST API integration, SQL/NoSQL databases and agile methodologies. Here you will find my background, projects and technical skills.",
+    "location": {
+        "city": "São José dos Campos",
+        "region": "SP",
+        "countryCode": "BR",
+        "detail": "Hybrid"
+    },
+    "availability": {
+        "isAvailable": true,
+        "label": "Looking for new projects and jobs"
+    },
+    "photo": {
+        "large": {
+            "src": "images/profile/photo-large.webp",
+            "width": 362,
+            "height": 362
+        },
+        "small": {
+            "src": "images/profile/photo-small.webp",
+            "width": 320,
+            "height": 320
+        }
+    },
+    "aboutParagraphs": [
+        "I took a computing course at Microcamp, but it was in high school, at Etec, that I developed a taste for technology and had my first contact with programming, databases and agile methodologies. Today I study Multiplatform Software Development at Fatec, now in the 6th semester, and a good part of the fundamentals I use every day comes from there.",
+        "I am currently a development intern at InCicle, where I work on different product modules within a micro frontend architecture, going through several delivery fronts, from implementing new features to evolving versions of existing modules. I work with React, TypeScript and Node.js across the full development cycle, from gathering rules with the product team to deploying to production.",
+        "Day to day, I like to understand the context of each delivery well before implementing it, discussing business rules directly with the people who define the product to make sure the technical solution really meets the user's need. I also use Artificial Intelligence tools in my development workflow, not only to write code faster, but to keep the quality and organization of what I deliver.",
+        "I am at a time of strong technical growth, aiming to move from intern to a junior position and, in the medium term, to mid-level. I like learning by doing, so a good part of what I know came from getting my hands dirty on real projects, both at work and outside it."
+    ],
+    "workPrinciples": [
+        "I discuss the rules with the PO before implementing, instead of just following what is written in the task",
+        "I break large features into smaller parts before starting",
+        "I use AI in my development workflow, with agents and skills to plan, implement and review what I deliver, not only to write code faster"
+    ],
+    "stack": [
+        {
+            "category": "frontend",
+            "items": [
+                {
+                    "name": "React",
+                    "isPrimary": true
+                },
+                {
+                    "name": "TypeScript"
+                },
+                {
+                    "name": "Redux"
+                },
+                {
+                    "name": "Module Federation"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "HTML5"
+                },
+                {
+                    "name": "CSS3"
+                }
+            ]
+        },
+        {
+            "category": "backend",
+            "items": [
+                {
+                    "name": "Node.js"
+                },
+                {
+                    "name": "Express"
+                },
+                {
+                    "name": "PostgreSQL"
+                },
+                {
+                    "name": "MongoDB"
+                },
+                {
+                    "name": "Redis"
+                },
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "scikit-learn"
+                },
+                {
+                    "name": "ONNX"
+                }
+            ]
+        },
+        {
+            "category": "tooling",
+            "items": [
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Jest"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Linux"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "email": "contact.felipesant@gmail.com",
+        "responseTime": {
+            "label": "Within 3 days",
+            "detail": "UTC-3 time zone"
+        }
+    },
+    "links": {
+        "github": "https://github.com/felipe-sant/",
+        "linkedin": "https://www.linkedin.com/in/lfelipesant/"
+    }
+}
