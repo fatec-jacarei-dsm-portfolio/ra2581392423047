@@ -1,0 +1,769 @@
+# Luiz Felipe dos Santos
+
+> Sou Luiz Felipe dos Santos, desenvolvedor full stack, com atuação principal em frontend, e estudante de Desenvolvimento de Software Multiplataforma na Fatec. Trabalho com React, TypeScript e Node.js no desenvolvimento de aplicações web, com experiência em integração de APIs REST, bancos de dados SQL/NoSQL e metodologias ágeis. Aqui você encontra minha trajetória, projetos e habilidades técnicas.
+
+## Perfil
+
+- Localização: São José dos Campos, SP, Híbrido
+- Disponibilidade: Procurando novos projetos e trabalhos
+- E-mail: contact.felipesant@gmail.com
+- Resposta: Em até 3 dias
+- https://github.com/felipe-sant/
+- https://www.linkedin.com/in/lfelipesant/
+
+### Sobre mim
+
+Fiz um curso de informática na Microcamp, mas foi no ensino médio, na Etec, que peguei gosto por tecnologia e tive meu primeiro contato com programação, banco de dados e metodologias ágeis. Hoje curso Desenvolvimento de Software Multiplataforma na Fatec, já no 6º semestre, e é de lá que vem boa parte dos fundamentos que uso no dia a dia.
+
+Atualmente sou estagiário de desenvolvimento na InCicle, onde atuo em diferentes módulos de produto dentro de uma arquitetura de micro frontends — passando por várias frentes de entrega, da implementação de novas features à evolução de versões de módulos já existentes. Trabalho com React, TypeScript e Node.js no ciclo completo de desenvolvimento, do levantamento de regras com o time de produto até o deploy em produção.
+
+No dia a dia, gosto de entender bem o contexto de cada entrega antes de implementar, discutindo regras de negócio diretamente com quem define o produto para garantir que a solução técnica realmente atenda à necessidade do usuário. Também uso ferramentas de Inteligência Artificial no fluxo de desenvolvimento, não só para escrever código mais rápido, mas para manter a qualidade e a organização do que entrego.
+
+Estou em um momento de bastante crescimento técnico, buscando evoluir de estagiário para uma posição júnior e, no médio prazo, pleno. Gosto de aprender fazendo, então boa parte do que sei veio de colocar a mão na massa em projetos reais, dentro e fora do trabalho.
+
+### Princípios de trabalho
+
+- Discuto as regras com o PO antes de implementar, não só sigo o que está escrito na tarefa
+- Quebro features grandes em partes menores antes de começar
+- Escrevo o teste antes do código e passo o que entrego por uma revisão antes de abrir o PR
+
+## Stack
+
+- Frontend: React, TypeScript, Redux, Module Federation, JavaScript, HTML5, CSS3
+- Backend: Node.js, Express, PostgreSQL, MongoDB, Redis, Python, scikit-learn, ONNX
+- Infra e ferramentas: Docker, Jest, AWS, Linux, Git, GitHub Actions, Vitest, Playwright
+
+## Trajetória
+
+### Estagiário de Desenvolvimento Frontend · InCicle
+
+Período: 2026-05 - atual
+
+Estágio · Híbrido
+
+Atuação principalmente em frontend, com incursões no backend, em squad ágil, passando por diferentes módulos de produto dentro de uma arquitetura de micro frontends — da implementação de novas features à evolução de versões já existentes. Desenvolvimento com React, TypeScript e Node.js, integração de APIs REST e trabalho com bancos de dados SQL e NoSQL. Revisão de Pull Requests, testes de QA e resolução de hotfixes em produção. Uso de agentes de IA para planejar, implementar e revisar as entregas, com TDD.
+
+**Responsabilidades**
+
+- Desenvolvimento de features com React, TypeScript e Node.js
+- Integração de APIs REST internas e externas
+- Trabalho com bancos de dados SQL e NoSQL
+- Revisão de Pull Requests de colegas de squad
+- Execução de testes de QA em tasks próprias e de terceiros
+- Resolução de hotfixes urgentes em produção
+- Testes end-to-end automatizados com Playwright
+- Planejamento, implementação e revisão de entregas com agentes de IA, seguindo TDD
+- Configuração de pipelines de CI e atualização automática de dependências
+- Preparação e acompanhamento de entregas para produção
+- Manutenção de repositórios
+
+**Tecnologias**
+
+React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Redis, Git, Docker, Vitest, Playwright, GitHub Actions
+
+### Auxiliar Pedagógico (Jovem Aprendiz) · Poliedro Educação
+
+Período: 2024-06 - 2026-04
+
+Jovem Aprendiz · Presencial
+
+Gerenciamento e controle de dados de frequência das turmas, com formatação e organização de materiais de aula e apoio às demais áreas do departamento pedagógico.
+
+**Responsabilidades**
+
+- Gerenciamento e controle de faltas das turmas
+- Acompanhamento e envio periódico de informações de frequência
+- Formatação e organização de materiais de aula sob demanda dos professores
+- Apoio às demais áreas do departamento pedagógico
+
+### Tecnólogo em Desenvolvimento de Software Multiplataforma · Fatec – Faculdade de Tecnologia do Estado de São Paulo (Jacareí)
+
+Período: 2023-02 - atual
+
+Conclusão prevista em 2027
+
+6º semestre
+
+Formação em desenvolvimento de software com foco em lógica de programação, POO, frameworks web e boas práticas de código, incluindo projetos acadêmicos e em parceria com empresas.
+
+**Disciplinas**
+
+- Matemática para Computação
+- Álgebra Linear
+- Lógica e Algoritmos
+- Programação Desktop, Web e Mobile
+- Laboratório de Desenvolvimento Web
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+- Engenharia de Software
+- Metodologias Ágeis
+- Gestão de Projetos
+- Redação Técnica
+- Ética
+- Banco de Dados
+- Computação em Nuvem (Cloud)
+- Inteligência Artificial (IA)
+- Qualidade e Teste de Software
+- Processamento de Linguagem Natural
+- Mineração de Dados
+- Internet das Coisas (IoT)
+- Segurança da Informação
+- Experiência do Usuário (UX/CX)
+- Inglês
+
+**Tecnologias**
+
+TypeScript, React, SQL, Python
+
+### Técnico em Desenvolvimento de Sistemas · Etec – Escola Técnica Estadual Professora Ilza Nascimento Pintus (São José dos Campos)
+
+Período: 2020-01 - 2022-12
+
+Concluído
+
+Curso técnico integrado ao ensino médio, com primeiro contato prático em desenvolvimento de sistemas: lógica de programação, HTML, CSS, JavaScript e metodologias ágeis.
+
+**Disciplinas**
+
+- Programação e Algoritmos
+- Desenvolvimento de Sistemas
+- Programação Web
+- Programação de Aplicativos Mobile
+- Sistemas Embarcados
+- Banco de Dados
+- Fundamentos da Informática
+- Internet, Protocolos e Segurança
+- Análise e Projeto de Sistemas
+- Design Digital
+- Qualidade e Teste de Software
+- Trabalho de Conclusão de Curso (TCC)
+- Linguagem, Trabalho e Tecnologia
+- Inglês Instrumental
+- Ética e Cidadania Organizacional
+- Operação de Software Aplicativo
+
+**Tecnologias**
+
+Python, C#, PHP, JavaScript, HTML5, CSS3
+
+### Gestores do Futuro · Expro
+
+Período: 2024-06 - 2026-04
+
+Jovem Aprendiz
+
+Programa de desenvolvimento pessoal e profissional do Jovem Aprendiz, com foco em soft skills e na construção de um perfil mais competitivo para o mercado de trabalho.
+
+**Certificados**
+
+- Gestores do Futuro (Expro)
+
+### Informática · Microcamp São José dos Campos
+
+Período: 2017-01 - 2019-12
+
+200 horas
+
+Curso de informática, com atuação como monitor auxiliando professores e alunos nas aulas por 200 horas.
+
+**Certificados**
+
+- Monitoria em Informática (Microcamp)
+- Monitoria em Robótica (Microcamp)
+
+## Currículo
+
+- Currículo em Markdown: https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/cv/cv-pt-BR.md
+- Currículo em PDF: https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/cv/cv-pt-BR.pdf
+
+# Luiz Felipe dos Santos
+
+São José dos Campos / Jacareí
+contact.felipesant@gmail.com
+github.com/felipe-sant
+linkedin.com/in/lfelipesant
+
+## Resumo
+
+Desenvolvedor full stack, com atuação principal em frontend (React, TypeScript) e conhecimento de backend, atuando no ciclo completo de aplicações web. Estudante do 6º semestre de Desenvolvimento de Software Multiplataforma na Fatec de Jacareí. Tenho experiência prática em arquiteturas de microsserviços e micro frontends (Module Federation), integração e consumo de APIs REST, controle de versão com Git, containers com Docker, testes automatizados e pipelines de CI/CD. Sou proativo na identificação e resolução de problemas além do escopo das tarefas atribuídas, com histórico consistente de entregas aprovadas sem retrabalho.
+
+## Experiência
+
+### InCicle — Estagiário de Desenvolvimento (05/2026 – atual)
+
+Atuação no desenvolvimento frontend de múltiplos módulos de produto (OKR, Hiring/Admissão, DISC, Agenda, Termômetro, entre outros), trabalhando em uma arquitetura de micro frontends.
+
+- Responsável pelo módulo de OKR, incluindo desenvolvimento de features como visualização em Gantt e validação de regras de negócio diretamente com liderança técnica.
+- Desenvolvimento de features de frontend com React e TypeScript, do planejamento ao deploy em produção, com alto índice de aprovação direto no QA (sem retrabalho).
+- Identificação e correção proativa de bugs críticos em produção e staging, incluindo quedas de módulos por conflitos de versão em Module Federation, regressões de deploy e problemas de internacionalização (i18n) em módulos de terceiros, muitas vezes por iniciativa própria e fora do escopo das tasks atribuídas.
+- Revisão de Pull Requests de colegas de squad, contribuindo para a qualidade do código do time.
+- Execução de testes de QA (funcionais) em tasks próprias e de terceiros, incluindo rodadas completas de QA preventivo que geraram dezenas de tasks de correção antes da liberação para clientes.
+- Implementação e manutenção de configuração de agentes de IA (ai-core) em múltiplos repositórios do time (backend e frontend), incluindo atualização de versão com padronização de Gitflow e correção de incompatibilidades entre diferentes adaptadores.
+- Resolução de hotfixes urgentes sob demanda direta, com autonomia da análise à correção em produção — reconhecido pela equipe como referência para reporte e resolução de bugs.
+- Participação em iniciativas de padronização visual (dark mode / design system) usando uma biblioteca de componentes compartilhada entre os frontends.
+
+### Poliedro Educação — Auxiliar Pedagógico (Jovem Aprendiz) (06/2024 – 04/2026)
+
+Responsável pelo gerenciamento e controle de faltas das turmas, com acompanhamento e envio periódico dessas informações. Atendimento a alunos, apoio na resolução de dúvidas e formatação/organização de materiais de aula sob demanda dos professores, além de suporte às atividades gerais do departamento pedagógico.
+
+## Formação
+
+**Fatec – Faculdade de Tecnologia do Estado de São Paulo** (2023 – 2027) — Cursando, 6º semestre
+Tecnólogo em Desenvolvimento de Software Multiplataforma — conclusão prevista para 2027
+
+Sólidos conhecimentos em TypeScript e frameworks como React, com experiência em bancos de dados SQL e NoSQL, consumo e integração de APIs internas e externas, programação orientada a objetos e boas práticas de organização de código (incluindo testes automatizados). Desenvolvimento de projetos acadêmicos e em parceria com empresas utilizando a metodologia ágil Scrum.
+
+**Etec – Escola Técnica Estadual** (2020 – 2022)
+Técnico em Desenvolvimento de Sistemas
+
+Curso técnico integrado ao ensino médio, com primeiro contato prático com a área de tecnologia: HTML, CSS, JavaScript, conceitos fundamentais, metodologias ágeis, banco de dados e relacionamento de dados. Projeto de conclusão de curso desenvolvido com metodologia Scrum, utilizando JavaScript e PHP.
+
+## Projetos em destaque
+
+**Player Profile Clustering** — Modelo de Machine Learning (K-Means) que classifica atletas de futebol em perfis de desempenho físico a partir de métricas de sessão, servido via API em Node.js com ONNX Runtime.
+
+**MNIST Classifier** — Aplicação que reconhece dígitos manuscritos desenhados pelo usuário, usando uma rede neural treinada com o dataset MNIST (Keras/TensorFlow), com backend em Node.js e serviço de inferência em Python/FastAPI.
+
+**Maps** — Simulador de rota de voo entre dois pontos do Brasil, sorteados ou escolhidos pelo usuário, calculando a trajetória real com curvatura da Terra e dados geográficos via API do IBGE.
+
+Portfólio completo com mais projetos, código e detalhes técnicos disponível no site.
+
+## Certificados
+
+- Expro – Gestores do Futuro (2024 – 2026)
+- Monitoria em Informática – 200 horas
+- Monitoria em Robótica – 200 horas
+
+## Habilidades técnicas
+
+**Linguagens & Frontend:** JavaScript, TypeScript, React, HTML5, CSS3
+**Backend & APIs:** Node.js, Express, APIs REST, consumo e integração de APIs
+**Dados & IA:** SQL, PostgreSQL, MongoDB/NoSQL, Python, scikit-learn, ONNX, modelagem de dados
+**Arquitetura:** Microsserviços, Micro Frontends (Module Federation), Programação Orientada a Objetos, Clean Code
+**DevOps & Ferramentas:** Docker, Git, GitHub, CI/CD, Testes unitários e automatizados
+**Cloud & Infraestrutura:** AWS, Linux (linha de comando), ambientes cloud
+**Metodologias:** Scrum, Kanban, Metodologias Ágeis
+**Outros:** JWT, Debugging, Resolução de Problemas, Documentação Técnica, IA aplicada ao desenvolvimento
+
+## Projeto: Maps
+
+Simulador de rota de voo entre dois pontos do Brasil, com a trajetória real pela curvatura da Terra e dados geográficos da API do IBGE.
+
+**Ficha técnica**
+
+- Função: Full stack
+- Duração: 13 meses
+- Equipe: Sozinho
+- Status: Em desenvolvimento
+- Stack - Frontend: React, TypeScript, Leaflet
+- Stack - Backend: Node.js, Express, TypeScript
+- Stack - Infra e ferramentas: Jest
+
+**Links**
+
+- Repositório: https://github.com/felipe-sant/maps
+
+**Galeria**
+
+- Mapa do Brasil com campos para inserir coordenadas inicial e final e botão para iniciar a simulação de voo (Tela inicial)
+
+**Documentação**
+
+### README.md
+
+## Contexto
+
+Projeto acadêmico para praticar cálculo geográfico e integração entre frontend e backend: simular uma rota de voo real entre dois pontos aleatórios do Brasil, levando em conta a curvatura da Terra em vez de uma linha reta num plano cartesiano.
+
+## Meu papel
+
+Desenvolvi sozinho tanto o frontend quanto o backend.
+
+## Solução
+
+O frontend renderiza o mapa com Leaflet, permite inserir coordenadas manualmente ou clicar diretamente no mapa, e simula o trajeto da aeronave em tempo real. O backend fornece coordenadas válidas dentro do território brasileiro e, a cada atualização de posição, retorna informações geográficas (país, estado, município, microrregião e mesorregião) a partir da API do IBGE.
+
+## Decisões técnicas
+
+O cálculo de posição ao longo da rota usa interpolação esférica (Slerp) sobre o arco de círculo máximo entre as duas coordenadas, em vez de interpolação linear — isso garante que o trajeto represente a curvatura real da Terra, não uma linha reta em um plano cartesiano. O backend foi reescrito em dezembro de 2025, estruturado em camadas de rotas, controllers e services, com testes unitários usando Jest.
+
+## Resultado
+
+O frontend está no ar e funcional isoladamente, mas aponta para uma versão anterior do backend (rotas antigas), já que o backend foi reescrito depois do último ajuste do frontend. Por isso o painel de localidade durante o voo sempre retorna "Desconhecido" — bug documentado em [issue #3](https://github.com/felipe-sant/maps-front/issues/3).
+
+## Aprendizados
+
+Entender a diferença entre interpolação linear e esférica para cálculos geográficos, e a importância de manter frontend e backend sincronizados quando são repositórios separados — a quebra de compatibilidade só foi percebida numa revisão posterior dos projetos.
+
+---
+
+### SETUP.md
+
+## Pré-requisitos
+
+Node.js e npm instalados. O repositório [maps](https://github.com/felipe-sant/maps) reúne o backend e o frontend como submódulos; clone com `git clone --recurse-submodules https://github.com/felipe-sant/maps.git`.
+
+## Backend
+
+```bash
+cd maps/back
+npm install
+npm run dev
+```
+
+Sobe em `http://localhost:3001`, com as rotas prefixadas em `/api`.
+
+## Frontend
+
+```bash
+cd maps/front
+npm install
+npm start
+```
+
+Sobe em `http://localhost:3000`.
+
+## Observação
+
+O frontend em produção aponta para uma versão antiga do backend. Para testar localmente com o backend atual, é necessário atualizar a URL em `src/connection/BackendConnection.ts` (ver [issue #3](https://github.com/felipe-sant/maps-front/issues/3)).
+
+---
+
+## Projeto: MNIST Classifier
+
+Aplicação que reconhece dígitos manuscritos desenhados pelo usuário, usando uma rede neural treinada com o dataset MNIST (Keras/TensorFlow).
+
+**Ficha técnica**
+
+- Função: Full stack + IA
+- Duração: 2 semanas
+- Equipe: Sozinho
+- Status: Concluído
+- Stack - Frontend: TypeScript, React
+- Stack - Backend: TypeScript, Node.js, Express, Multer
+- Stack - Infra e ferramentas: Python, TensorFlow, FastAPI
+
+**Links**
+
+- Repositório: https://github.com/felipe-sant/mnist-classifier
+
+**Galeria**
+
+- Resultado da previsão da IA mostrando corretamente o número sete após o desenho (IA acertando a previsão)
+
+**Documentação**
+
+### README.md
+
+## Contexto
+
+Projeto pessoal para praticar o ciclo completo de um produto com IA: treinar um modelo de reconhecimento de dígitos manuscritos e expor isso numa aplicação web interativa, do desenho até a predição.
+
+## Meu papel
+
+Desenvolvi sozinho as três camadas: o frontend (canvas de desenho), o backend (intermediário entre front e IA) e o serviço de inferência em Python, além de treinar o modelo.
+
+## Solução
+
+O usuário desenha um número de 0 a 9 num canvas HTML. Ao clicar em "Adivinhar", o frontend envia a imagem desenhada para um backend em Node.js/Express, que repassa a imagem para um serviço separado em Python (FastAPI) responsável por carregar o modelo treinado (Keras/TensorFlow) e retornar o dígito previsto.
+
+## Decisões técnicas
+
+Separar a inferência de IA num serviço Python próprio, independente do backend em Node, permite usar bibliotecas de IA nativas do ecossistema Python (TensorFlow/Keras) sem forçar isso dentro do runtime JavaScript. O backend em Node atua só como intermediário/gateway, lidando com upload de arquivo (Multer) e repassando para o serviço de IA.
+
+## Resultado
+
+A aplicação funciona corretamente de ponta a ponta — testado localmente desenhando dígitos e conferindo a predição do modelo. A demo pública está com uma limitação: o serviço de IA hospedado no Railway está fora do ar (deploy gratuito expirado), então a predição falha em produção, mesmo com o resto da aplicação no ar normalmente. Bug documentado na [issue #1 do mnist-classifier-ai](https://github.com/felipe-sant/mnist-classifier-ai/issues/1).
+
+## Aprendizados
+
+Arquitetar um sistema poliglota (Node.js + Python) com responsabilidades bem separadas, e lidar com os desafios de manter no ar vários serviços hospedados em planos gratuitos diferentes ao mesmo tempo.
+
+---
+
+### ARCHITECTURE.md
+
+## Visão geral
+
+O projeto é dividido em três serviços independentes, cada um em seu próprio repositório:
+
+- mnist-classifier-front — React. Canvas de desenho e exibição do resultado.
+- mnist-classifier-back — Node.js/Express. Recebe a imagem via upload (Multer) e repassa para o serviço de IA.
+- mnist-classifier-ai — Python/FastAPI. Carrega o modelo treinado (Keras/TensorFlow) e retorna a predição.
+
+## Fluxo de dados
+
+1. Usuário desenha no canvas (front).
+2. Front converte o canvas em imagem e envia via POST para o back (`/ia/predict`).
+3. Back repassa a imagem, via multipart/form-data, para o serviço de IA (`/predict`).
+4. IA pré-processa a imagem (grayscale, resize 28x28, normalização) e roda a inferência no modelo.
+5. Resultado (dígito previsto) volta pela mesma cadeia até o front.
+
+## Por que três serviços separados
+
+O back em Node não tem um runtime adequado para rodar modelos TensorFlow/Keras diretamente. Separar a IA num serviço Python permite usar as bibliotecas nativas do ecossistema, mantendo o back em Node como uma camada fina de integração (upload, validação, roteamento) entre o front e a IA.
+
+---
+
+### SETUP.md
+
+## Pré-requisitos
+
+- Node.js e npm
+- Python 3.11 (TensorFlow não é compatível com versões muito recentes do Python, como 3.13/3.14)
+
+## IA (Python)
+
+```bash
+cd mnist-classifier-ai
+python3.11 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+uvicorn index:app --host 0.0.0.0 --port 8000
+```
+
+Sobe em `http://localhost:8000`.
+
+## Backend (Node)
+
+```bash
+cd mnist-classifier-back
+npm install
+npx tsc && node dist/index.js
+```
+
+Sobe em `http://localhost:3001`. Observação: `npm run dev` (ts-node) está quebrado por uma incompatibilidade de tipos do multer — ver [issue #1](https://github.com/felipe-sant/mnist-classifier-back/issues/1). Use o build manual acima como alternativa enquanto isso não é corrigido.
+
+## Frontend (React)
+
+```bash
+cd mnist-classifier-front
+npm install
+npm start
+```
+
+Sobe em `http://localhost:3000`.
+
+## Observação
+
+Os três serviços, em produção, apontam para URLs fixas (Vercel/Railway). Para testar localmente com os serviços locais, é necessário atualizar temporariamente as URLs em `IA.service.ts` (back) e `UploadImage.ts` (front).
+
+---
+
+## Projeto: Pedido de Namoro Irrecusável
+
+Site divertido de pedido de namoro onde o botão "Não" foge do cursor sempre que o usuário tenta clicar nele.
+
+**Ficha técnica**
+
+- Função: Frontend
+- Duração: 1 dia
+- Equipe: Sozinho
+- Status: Concluído
+- Stack - Frontend: TypeScript, React
+
+**Links**
+
+- Repositório: https://github.com/felipe-sant/pedido-de-namoro
+- Demonstração: https://pedido-de-namoro-irrecusavel-iota.vercel.app
+
+**Galeria**
+
+- Tela de pedido de namoro com botão "Não" reposicionado após tentativa de clique (O botão "Não" sempre foge)
+
+**Documentação**
+
+### README.md
+
+## Contexto
+
+Projeto de hobby, feito só por diversão num único dia: um site de "pedido de namoro impossível de recusar", onde o botão de recusa foge do cursor sempre que o usuário tenta se aproximar dele.
+
+## Meu papel
+
+Desenvolvi sozinho, do zero ao deploy.
+
+## Solução
+
+Ao passar o mouse perto do botão "Não", a posição dele é recalculada aleatoriamente dentro da tela, tornando praticamente impossível clicar nele. O botão "Sim" aceita o convite e redireciona para uma música.
+
+## Decisões técnicas
+
+A lógica de "fuga" é simples e direta: no evento de mouseover (e no clique, como segurança extra), o botão recebe uma nova posição absoluta gerada aleatoriamente dentro de uma faixa segura da tela, via uma função utilitária de geração de posição.
+
+## Resultado
+
+Projeto pequeno e funcional, publicado e no ar.
+
+## Aprendizados
+
+Às vezes um projeto não precisa resolver um problema sério para ser um bom exercício de frontend — foi uma forma leve de praticar manipulação de DOM e posicionamento dinâmico de elementos.
+
+---
+
+## Projeto: Controle de Despesas
+
+Aplicação de controle de despesas pessoais com CRUD completo — criar, listar, editar e excluir — usando MongoDB.
+
+**Ficha técnica**
+
+- Função: Full stack
+- Duração: 2 semanas
+- Equipe: Sozinho
+- Status: Em desenvolvimento
+- Stack - Frontend: TypeScript, React
+- Stack - Backend: TypeScript, Node.js, Express, MongoDB, Mongoose
+
+**Links**
+
+- Repositório: https://github.com/felipe-sant/controle-despesas
+
+**Galeria**
+
+- Lista de despesas com um item cadastrado, mostrando data, descrição, valor e botões de editar e excluir (CRUD funcionando — despesa cadastrada e listada)
+
+**Documentação**
+
+### README.md
+
+## Contexto
+
+Projeto acadêmico para praticar operações CRUD completas (criar, listar, editar, excluir) com um banco NoSQL, construindo tanto o frontend quanto a API.
+
+## Meu papel
+
+Desenvolvi sozinho o frontend e o backend.
+
+## Solução
+
+A aplicação permite cadastrar despesas (descrição, data e valor), listar todas as despesas cadastradas, editar e excluir cada uma. O frontend consome uma API REST própria, que persiste os dados no MongoDB via Mongoose.
+
+## Decisões técnicas
+
+Separação clara entre frontend e backend em repositórios próprios, unidos por um repositório wrapper com git submodules. O backend expõe uma API REST simples em Express, e o frontend usa React puro (sem bibliotecas de estado), com chamadas diretas à API.
+
+## Resultado
+
+O CRUD funciona de ponta a ponta — testado criando, listando e confirmando a persistência de uma despesa. A interface, porém, ainda está em nível de protótipo (sem estilização real, com textos de placeholder como "Hello world"), por isso o projeto está marcado para retrabalho visual futuro.
+
+## Aprendizados
+
+A ideia e a base funcional do projeto são sólidas — a maior lacuna hoje é só de acabamento de interface, não de lógica ou arquitetura.
+
+---
+
+### SETUP.md
+
+## Pré-requisitos
+
+Node.js, npm e uma instância do MongoDB (local ou Atlas).
+
+## Backend
+
+```bash
+cd back
+npm install
+```
+
+Crie um arquivo `.env` na raiz do back com:
+
+```env
+MONGODB_URI=sua_connection_string_do_mongodb
+PORT=3001
+```
+
+```bash
+npm start
+```
+
+Sobe em `http://localhost:3001`.
+
+## Frontend
+
+```bash
+cd front
+npm install
+npm start
+```
+
+Sobe em `http://localhost:3000`, já configurado para consumir a API em `http://localhost:3001`.
+
+## Observação
+
+Para testes locais, uma alternativa rápida é rodar um MongoDB via Docker:
+
+```bash
+docker run -d -p 27017:27017 mongo:7
+```
+
+E usar `MONGODB_URI=mongodb://localhost:27017/despesas` no `.env`.
+
+---
+
+## Projeto: Conversor de Unidades
+
+Conversor de unidades de comprimento, peso e temperatura, com interface simples e troca rápida entre unidade de origem e destino.
+
+**Ficha técnica**
+
+- Função: Frontend
+- Duração: 5 dias
+- Equipe: Sozinho
+- Status: Concluído
+- Stack - Frontend: TypeScript, React
+
+**Links**
+
+- Repositório: https://github.com/felipe-sant/conversor-de-unidades
+- Demonstração: https://conversor-de-unidades-ecru.vercel.app
+
+**Galeria**
+
+- Conversor de unidades mostrando 10 quilômetros convertidos para 10.000 metros (Conversão de comprimento em ação)
+
+**Documentação**
+
+### README.md
+
+## Contexto
+
+Projeto acadêmico para praticar manipulação de estado e formulários em React: converter unidades de comprimento, peso e temperatura entre si.
+
+## Meu papel
+
+Desenvolvi sozinho, frontend puro, sem backend.
+
+## Solução
+
+O usuário escolhe uma categoria (comprimento, peso ou temperatura), informa um valor e a unidade de origem, e o sistema calcula e exibe o valor convertido na unidade de destino. Um botão permite inverter rapidamente a unidade de origem e destino.
+
+## Decisões técnicas
+
+Toda a lógica de conversão roda no cliente, sem necessidade de API externa — as fórmulas de conversão entre unidades são fixas e conhecidas, então não há motivo para depender de um serviço externo para isso (diferente de conversões que dependem de dados atualizados, como as de moeda).
+
+## Resultado
+
+Funciona como esperado — testado convertendo comprimento (km para m).
+
+## Aprendizados
+
+Projeto pequeno, mas útil para reforçar que nem toda funcionalidade "de conversão" precisa de uma API: às vezes a lógica pura já resolve, com menos pontos de falha.
+
+---
+
+## Projeto: Player Profile Clustering
+
+Modelo de Machine Learning (K-Means) que classifica atletas de futebol em perfis de desempenho físico a partir de métricas de sessão, servido via API com ONNX.
+
+**Ficha técnica**
+
+- Função: IA (modelo e treinamento)
+- Duração: 1 semana
+- Equipe: Sozinho
+- Status: Concluído
+- Stack - Backend: TypeScript, Node.js, Express, PostgreSQL, ONNX Runtime
+- Stack - Infra e ferramentas: Python, scikit-learn, pandas
+
+**Links**
+
+- Repositório: https://github.com/felipe-sant/player-profile-clustering-ai
+
+**Galeria**
+
+- Gráfico de dispersão mostrando quatro clusters de desempenho de atletas separados visualmente com centroides marcados (Visualização dos clusters por PCA)
+
+**Documentação**
+
+### README.md
+
+## Contexto
+
+Projeto pessoal para aplicar aprendizado não supervisionado (K-Means) a um problema real de ciência do esporte: agrupar atletas de futebol em perfis de desempenho físico a partir de métricas de sessão (distância percorrida, sprints, velocidade máxima, intensidade), para apoiar decisões táticas e ajustes de treino.
+
+## Meu papel
+
+Desenvolvi sozinho todo o pipeline: desde o treinamento do modelo em Python até a API de inferência em produção. A API fica em um repositório próprio, o [player-profile-clustering-service](https://github.com/felipe-sant/player-profile-clustering-service), e consome o modelo exportado por este.
+
+## Solução
+
+O modelo foi treinado em Python com scikit-learn (pipeline de normalização + K-Means com 4 clusters), incluindo uma métrica derivada de "explosividade" calculada a partir da distância de sprint e velocidade máxima. Os clusters resultantes são nomeados automaticamente com base nas características dos centroides (ex.: alta intensidade e sprint curto = "explosivo"). O modelo treinado é exportado para o formato ONNX e servido por uma API em Node.js/TypeScript, que roda a inferência via ONNX Runtime sem depender de Python em produção — e também calcula o perfil predominante de um atleta ao longo de várias partidas, consultando um banco PostgreSQL.
+
+## Decisões técnicas
+
+Exportar o modelo para ONNX e rodar a inferência em Node.js (em vez de manter um serviço Python em produção) simplifica o deploy e evita manter dois runtimes diferentes rodando. Os parâmetros do normalizador (média e desvio padrão) são exportados junto do modelo, para garantir que o pré-processamento em produção seja idêntico ao do treinamento.
+
+## Resultado
+
+Testado com múltiplos perfis de entrada sintéticos: métricas de alta intensidade e sprint curto foram corretamente classificadas como "explosivo", enquanto métricas de longa distância e baixa intensidade foram classificadas como "resistente" — confirmando que o modelo distingue os perfis de forma coerente.
+
+## Aprendizados
+
+Nomear clusters automaticamente com base nas características dos centroides (em vez de rotular manualmente após cada treino) torna o pipeline mais robusto a retreinos com dados diferentes.
+
+---
+
+### ARCHITECTURE.md
+
+## Visão geral
+
+O projeto é dividido em duas partes, em repositórios separados:
+
+- [player-profile-clustering-ai](https://github.com/felipe-sant/player-profile-clustering-ai) — Python. Notebook de treinamento do modelo K-Means, exportação para ONNX.
+- [player-profile-clustering-service](https://github.com/felipe-sant/player-profile-clustering-service) — Node.js/TypeScript. API que roda a inferência do modelo exportado e consulta métricas de atletas no PostgreSQL.
+
+## Fluxo de dados
+
+1. Métricas de sessão são carregadas de uma planilha (`players.xlsx`) e filtradas (ex.: partidas com volume mínimo de distância).
+2. Uma métrica derivada ("Explosividade") é calculada a partir de sprint, distância e velocidade máxima.
+3. As métricas são normalizadas (StandardScaler) e usadas para treinar um K-Means com 4 clusters.
+4. Os clusters são nomeados automaticamente com base nas características dos centroides (ex.: alta intensidade e sprint curto = "explosivo").
+5. O pipeline treinado (normalização + K-Means) é exportado para ONNX, junto com os parâmetros do normalizador.
+6. O serviço Node.js carrega o modelo ONNX via `onnxruntime-node`, normaliza os dados de entrada com os mesmos parâmetros do treino, roda a inferência e interpreta o resultado (cluster + confiança).
+
+## Por que ONNX em vez de manter um serviço Python
+
+Rodar a inferência em Node.js evita manter dois runtimes (Python + Node) em produção — o modelo treinado em Python é exportado uma vez, e o serviço que o consome não precisa de nenhuma dependência de IA além do ONNX Runtime.
+
+---
+
+### SETUP.md
+
+## Treinamento do modelo (opcional)
+
+```bash
+cd player-profile-clustering-ai
+pip install -r requirements.txt
+```
+
+Abrir e rodar `src/k-means_model.ipynb` (Jupyter). Gera `model/player-profile-clustering.onnx` e `model/scaler_params.json`.
+
+## Serviço de inferência
+
+```bash
+cd player-profile-clustering-service
+npm install
+```
+
+Crie um `.env` com:
+
+```env
+POSTGRESQL_URL=sua_connection_string_do_postgres
+```
+
+A variável é obrigatória só para o endpoint `/api/athlete/metrics`; o `/api/match/predict` funciona sem banco, só com o modelo.
+
+```bash
+npm run dev
+```
+
+Sobe em `http://localhost:3000`.
+
+## Testando a predição sem banco
+
+```bash
+curl -X POST http://localhost:3000/api/match/predict \
+  -H "Content-Type: application/json" \
+  -d '{"distanceM": 9500, "highIntensityRunningM": 1200, "highIntensityEvents": 35, "sprintDistanceM": 450, "numberOfSprints": 18, "topSpeedKph": 32.5, "avgSpeedKph": 7.2, "accelerations": 40, "decelerations": 38, "metresPerMinuteM": 105, "workloadIntensity": 0.78}'
+```
+
+---

@@ -1,0 +1,42 @@
+# Luiz Felipe dos Santos
+
+> Sou Luiz Felipe dos Santos, desenvolvedor full stack, com atuação principal em frontend, e estudante de Desenvolvimento de Software Multiplataforma na Fatec. Trabalho com React, TypeScript e Node.js no desenvolvimento de aplicações web, com experiência em integração de APIs REST, bancos de dados SQL/NoSQL e metodologias ágeis. Aqui você encontra minha trajetória, projetos e habilidades técnicas.
+
+## Páginas
+
+- [Início (Português)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR)
+- [Início (English)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en)
+- [Início (Español)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es)
+- [Projetos (Português)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects)
+- [Projetos (English)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects)
+- [Projetos (Español)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects)
+- [Informações (Português)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/about)
+- [Informações (English)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/about)
+- [Informações (Español)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/about)
+- [Contato (Português)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/contact)
+- [Contato (English)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/contact)
+- [Contato (Español)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/contact)
+
+## Projetos
+
+- [Maps](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a13188-a1da-7d4b-901c-e7bcc81d497b): Simulador de rota de voo entre dois pontos do Brasil, com a trajetória real pela curvatura da Terra e dados geográficos da API do IBGE. ([English](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a13188-a1da-7d4b-901c-e7bcc81d497b), [Español](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a13188-a1da-7d4b-901c-e7bcc81d497b))
+- [MNIST Classifier](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a131df-93ee-72f3-8c7a-f67501e47a7a): Aplicação que reconhece dígitos manuscritos desenhados pelo usuário, usando uma rede neural treinada com o dataset MNIST (Keras/TensorFlow). ([English](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a131df-93ee-72f3-8c7a-f67501e47a7a), [Español](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a131df-93ee-72f3-8c7a-f67501e47a7a))
+- [Pedido de Namoro Irrecusável](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a131fc-d24c-7c70-887b-0d055f57d251): Site divertido de pedido de namoro onde o botão "Não" foge do cursor sempre que o usuário tenta clicar nele. ([English](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a131fc-d24c-7c70-887b-0d055f57d251), [Español](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a131fc-d24c-7c70-887b-0d055f57d251))
+- [Controle de Despesas](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a13216-9960-7a66-8288-462bf96ec9a5): Aplicação de controle de despesas pessoais com CRUD completo — criar, listar, editar e excluir — usando MongoDB. ([English](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a13216-9960-7a66-8288-462bf96ec9a5), [Español](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a13216-9960-7a66-8288-462bf96ec9a5))
+- [Conversor de Unidades](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a13229-0594-7b2f-a012-ecf61257f6ad): Conversor de unidades de comprimento, peso e temperatura, com interface simples e troca rápida entre unidade de origem e destino. ([English](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a13229-0594-7b2f-a012-ecf61257f6ad), [Español](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a13229-0594-7b2f-a012-ecf61257f6ad))
+- [Player Profile Clustering](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a1323d-b9bc-73c0-8bac-2e93e30ee193): Modelo de Machine Learning (K-Means) que classifica atletas de futebol em perfis de desempenho físico a partir de métricas de sessão, servido via API com ONNX. ([English](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a1323d-b9bc-73c0-8bac-2e93e30ee193), [Español](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a1323d-b9bc-73c0-8bac-2e93e30ee193))
+
+## Currículo
+
+- [Currículo em Markdown (Português)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/cv/cv-pt-BR.md)
+- [Currículo em PDF (Português)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/cv/cv-pt-BR.pdf)
+- [Resume in Markdown (English)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/cv/cv-en.md)
+- [Resume in PDF (English)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/cv/cv-en.pdf)
+- [Currículum en Markdown (Español)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/cv/cv-es.md)
+- [Currículum en PDF (Español)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/cv/cv-es.pdf)
+
+## Texto completo
+
+- [Texto completo do site (Português)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/llms-full.txt)
+- [Full text of the site (English)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/llms-full.en.txt)
+- [Texto completo del sitio (Español)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/llms-full.es.txt)
