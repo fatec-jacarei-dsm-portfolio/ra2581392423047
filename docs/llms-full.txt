@@ -1,6 +1,6 @@
 # Luiz Felipe dos Santos
 
-> Sou Luiz Felipe dos Santos, desenvolvedor full stack, com atuação principal em frontend, e estudante de Desenvolvimento de Software Multiplataforma na Fatec. Trabalho com React, TypeScript e Node.js no desenvolvimento de aplicações web, com experiência em integração de APIs REST, bancos de dados SQL/NoSQL e metodologias ágeis. Aqui você encontra minha trajetória, projetos e habilidades técnicas.
+> Sou Luiz Felipe dos Santos, desenvolvedor full stack Júnior, com atuação principal em frontend, e estudante de Desenvolvimento de Software Multiplataforma na Fatec. Trabalho com React, TypeScript e Node.js no desenvolvimento de aplicações web, com experiência em integração de APIs REST, bancos de dados SQL/NoSQL e metodologias ágeis. Aqui você encontra minha trajetória, projetos e habilidades técnicas.
 
 ## Perfil
 
@@ -13,13 +13,9 @@
 
 ### Sobre mim
 
-Fiz um curso de informática na Microcamp, mas foi no ensino médio, na Etec, que peguei gosto por tecnologia e tive meu primeiro contato com programação, banco de dados e metodologias ágeis. Hoje curso Desenvolvimento de Software Multiplataforma na Fatec, já no 6º semestre, e é de lá que vem boa parte dos fundamentos que uso no dia a dia.
+Sou desenvolvedor full stack Júnior, com atuação principal em frontend, na InCicle, onde trabalho em módulos de produto de uma arquitetura de micro frontends, da implementação de novas features à evolução de versões de módulos existentes. Uso React, TypeScript e Node.js no ciclo completo, do levantamento de regras com o time de produto até o deploy em produção. Curso Desenvolvimento de Software Multiplataforma na Fatec, no 6º semestre; foi na Etec que tive meu primeiro contato com programação.
 
-Atualmente sou estagiário de desenvolvimento na InCicle, onde atuo em diferentes módulos de produto dentro de uma arquitetura de micro frontends — passando por várias frentes de entrega, da implementação de novas features à evolução de versões de módulos já existentes. Trabalho com React, TypeScript e Node.js no ciclo completo de desenvolvimento, do levantamento de regras com o time de produto até o deploy em produção.
-
-No dia a dia, gosto de entender bem o contexto de cada entrega antes de implementar, discutindo regras de negócio diretamente com quem define o produto para garantir que a solução técnica realmente atenda à necessidade do usuário. Também uso ferramentas de Inteligência Artificial no fluxo de desenvolvimento, não só para escrever código mais rápido, mas para manter a qualidade e a organização do que entrego.
-
-Estou em um momento de bastante crescimento técnico, buscando evoluir de estagiário para uma posição júnior e, no médio prazo, pleno. Gosto de aprender fazendo, então boa parte do que sei veio de colocar a mão na massa em projetos reais, dentro e fora do trabalho.
+Gosto de entender o contexto de cada entrega antes de implementar e de discutir as regras de negócio com quem define o produto. Uso ferramentas de Inteligência Artificial no fluxo de desenvolvimento para manter a qualidade e a organização do que entrego. Aprendo fazendo, em projetos dentro e fora do trabalho.
 
 ### Princípios de trabalho
 
@@ -35,11 +31,11 @@ Estou em um momento de bastante crescimento técnico, buscando evoluir de estagi
 
 ## Trajetória
 
-### Estagiário de Desenvolvimento Frontend · InCicle
+### Desenvolvedor full stack Júnior · InCicle
 
 Período: 2026-05 - atual
 
-Estágio · Híbrido
+Híbrido
 
 Atuação principalmente em frontend, com incursões no backend, em squad ágil, passando por diferentes módulos de produto dentro de uma arquitetura de micro frontends — da implementação de novas features à evolução de versões já existentes. Desenvolvimento com React, TypeScript e Node.js, integração de APIs REST e trabalho com bancos de dados SQL e NoSQL. Revisão de Pull Requests, testes de QA e resolução de hotfixes em produção. Uso de agentes de IA para planejar, implementar e revisar as entregas, com TDD.
 
@@ -76,7 +72,7 @@ Gerenciamento e controle de dados de frequência das turmas, com formatação e 
 - Formatação e organização de materiais de aula sob demanda dos professores
 - Apoio às demais áreas do departamento pedagógico
 
-### Tecnólogo em Desenvolvimento de Software Multiplataforma · Fatec – Faculdade de Tecnologia do Estado de São Paulo (Jacareí)
+### Tecnólogo em Desenvolvimento de Software Multiplataforma · Fatec Jacareí
 
 Período: 2023-02 - atual
 
@@ -185,11 +181,11 @@ linkedin.com/in/lfelipesant
 
 ## Resumo
 
-Desenvolvedor full stack, com atuação principal em frontend (React, TypeScript) e conhecimento de backend, atuando no ciclo completo de aplicações web. Estudante do 6º semestre de Desenvolvimento de Software Multiplataforma na Fatec de Jacareí. Tenho experiência prática em arquiteturas de microsserviços e micro frontends (Module Federation), integração e consumo de APIs REST, controle de versão com Git, containers com Docker, testes automatizados e pipelines de CI/CD. Sou proativo na identificação e resolução de problemas além do escopo das tarefas atribuídas, com histórico consistente de entregas aprovadas sem retrabalho.
+Desenvolvedor full stack Júnior, com atuação principal em frontend (React, TypeScript) e conhecimento de backend, atuando no ciclo completo de aplicações web. Estudante do 6º semestre de Desenvolvimento de Software Multiplataforma na Fatec de Jacareí. Tenho experiência prática em arquiteturas de microsserviços e micro frontends (Module Federation), integração e consumo de APIs REST, controle de versão com Git, containers com Docker, testes automatizados e pipelines de CI/CD. Sou proativo na identificação e resolução de problemas além do escopo das tarefas atribuídas, com histórico consistente de entregas aprovadas sem retrabalho.
 
 ## Experiência
 
-### InCicle — Estagiário de Desenvolvimento (05/2026 – atual)
+### InCicle — Desenvolvedor Full Stack Júnior (05/2026 – atual)
 
 Atuação no desenvolvimento frontend de múltiplos módulos de produto (OKR, Hiring/Admissão, DISC, Agenda, Termômetro, entre outros), trabalhando em uma arquitetura de micro frontends.
 

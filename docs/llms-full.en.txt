@@ -1,6 +1,6 @@
 # Luiz Felipe dos Santos
 
-> I am Luiz Felipe dos Santos, a full stack developer who works mainly on the frontend, and a Multiplatform Software Development student at Fatec. I work with React, TypeScript and Node.js building web applications, with experience in REST API integration, SQL/NoSQL databases and agile methodologies. Here you will find my background, projects and technical skills.
+> I am Luiz Felipe dos Santos, a junior full stack developer who works mainly on the frontend, and a Multiplatform Software Development student at Fatec. I work with React, TypeScript and Node.js building web applications, with experience in REST API integration, SQL/NoSQL databases and agile methodologies. Here you will find my background, projects and technical skills.
 
 ## Profile
 
@@ -13,13 +13,9 @@
 
 ### About me
 
-I took a computing course at Microcamp, but it was in high school, at Etec, that I developed a taste for technology and had my first contact with programming, databases and agile methodologies. Today I study Multiplatform Software Development at Fatec, now in the 6th semester, and a good part of the fundamentals I use every day comes from there.
+I am a junior full stack developer, mainly focused on frontend, at InCicle, where I work on product modules of a micro frontend architecture, from implementing new features to evolving versions of existing modules. I use React, TypeScript and Node.js across the full cycle, from gathering rules with the product team to deploying to production. I study Multiplatform Software Development at Fatec, in the 6th semester; it was at Etec that I had my first contact with programming.
 
-I am currently a development intern at InCicle, where I work on different product modules within a micro frontend architecture, going through several delivery fronts, from implementing new features to evolving versions of existing modules. I work with React, TypeScript and Node.js across the full development cycle, from gathering rules with the product team to deploying to production.
-
-Day to day, I like to understand the context of each delivery well before implementing it, discussing business rules directly with the people who define the product to make sure the technical solution really meets the user's need. I also use Artificial Intelligence tools in my development workflow, not only to write code faster, but to keep the quality and organization of what I deliver.
-
-I am at a time of strong technical growth, aiming to move from intern to a junior position and, in the medium term, to mid-level. I like learning by doing, so a good part of what I know came from getting my hands dirty on real projects, both at work and outside it.
+I like to understand the context of each delivery before implementing it and to discuss business rules with the people who define the product. I use Artificial Intelligence tools in my development workflow to keep the quality and organization of what I deliver. I learn by doing, on projects both at work and outside it.
 
 ### Work principles
 
@@ -35,11 +31,11 @@ I am at a time of strong technical growth, aiming to move from intern to a junio
 
 ## Career path
 
-### Frontend Development Intern · InCicle
+### Junior full stack developer · InCicle
 
 Period: 2026-05 - present
 
-Internship · Hybrid
+Hybrid
 
 Working mainly on the frontend, with incursions into the backend, in an agile squad, going through different product modules within a micro frontend architecture, from implementing new features to evolving existing versions. Development with React, TypeScript and Node.js, REST API integration and work with SQL and NoSQL databases. Pull Request review, QA testing and production hotfixes. Use of AI agents to plan, implement and review deliverables, with TDD.
 
@@ -76,7 +72,7 @@ Management and control of class attendance data, formatting and organizing class
 - Formatting and organizing class materials on teachers' request
 - Support for the other areas of the pedagogical department
 
-### Technologist Degree in Multiplatform Software Development · Fatec – Faculdade de Tecnologia do Estado de São Paulo (Jacareí)
+### Technologist Degree in Multiplatform Software Development · Fatec Jacareí
 
 Period: 2023-02 - present
 
@@ -185,11 +181,11 @@ linkedin.com/in/lfelipesant
 
 ## Summary
 
-Full stack developer, working mainly on the frontend (React, TypeScript) with backend knowledge, covering the full cycle of web applications. 6th-semester student of Multiplatform Software Development at Fatec Jacareí. I have hands-on experience with microservices and micro frontend architectures (Module Federation), REST API integration and consumption, version control with Git, containers with Docker, automated testing and CI/CD pipelines. I am proactive in identifying and solving problems beyond the scope of the tasks assigned to me, with a consistent record of approved deliveries without rework.
+Junior full stack developer, working mainly on the frontend (React, TypeScript) with backend knowledge, covering the full cycle of web applications. 6th-semester student of Multiplatform Software Development at Fatec Jacareí. I have hands-on experience with microservices and micro frontend architectures (Module Federation), REST API integration and consumption, version control with Git, containers with Docker, automated testing and CI/CD pipelines. I am proactive in identifying and solving problems beyond the scope of the tasks assigned to me, with a consistent record of approved deliveries without rework.
 
 ## Experience
 
-### InCicle — Development Intern (05/2026 – present)
+### InCicle — Junior Full Stack Developer (05/2026 – present)
 
 Frontend development of multiple product modules (OKR, Hiring/Onboarding, DISC, Agenda, Thermometer, among others), working in a micro frontend architecture.
 
