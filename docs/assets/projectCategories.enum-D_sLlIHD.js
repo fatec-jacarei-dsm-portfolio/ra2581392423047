@@ -1,0 +1,1 @@
+var e=[`web`,`mobile`,`api`,`desktop`,`cli`,`library`,`extension`,`bot`,`data`,`game`,`iot`,`infra`],t=[`academic`,`personal`,`professional`];export{e as n,t};

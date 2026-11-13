@@ -1,0 +1,1 @@
+import{n as e,o as t}from"./schemas-BNi3eCLE.js";function n(n){return t({items:e(n)})}export{n as default};

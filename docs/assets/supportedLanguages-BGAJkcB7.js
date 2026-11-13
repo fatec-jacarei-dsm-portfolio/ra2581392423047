@@ -1,0 +1,1 @@
+var e=[`pt-BR`,`en`,`es`];export{e as t};

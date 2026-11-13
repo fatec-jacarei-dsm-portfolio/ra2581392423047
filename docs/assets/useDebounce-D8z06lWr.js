@@ -1,0 +1,1 @@
+import{S as e,y as t}from"./getLanguage-CBkDr9qO.js";var n=e(t(),1);function r(e,t){let[r,i]=(0,n.useState)(e);return(0,n.useEffect)(()=>{let n=window.setTimeout(()=>i(e),t);return()=>window.clearTimeout(n)},[e,t]),r}export{r as t};

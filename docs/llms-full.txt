@@ -6,7 +6,7 @@
 
 - Localização: São José dos Campos, SP, Híbrido
 - Disponibilidade: Procurando novos projetos e trabalhos
-- E-mail: contact.felipesant@gmail.com
+- Contato: https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/contact
 - Resposta: Em até 3 dias
 - https://github.com/felipe-sant/
 - https://www.linkedin.com/in/lfelipesant/
@@ -175,7 +175,7 @@ Curso de informática, com atuação como monitor auxiliando professores e aluno
 # Luiz Felipe dos Santos
 
 São José dos Campos / Jacareí
-contact.felipesant@gmail.com
+https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/contact
 github.com/felipe-sant
 linkedin.com/in/lfelipesant
 
