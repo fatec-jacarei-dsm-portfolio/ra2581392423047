@@ -12,9 +12,9 @@ Software Multiplataforma da Fatec Jacareí, para a entrega do portfólio.
 
 ## Versão publicada
 
-A versão publicada é a **v1.4.0**, gerada a partir do commit
-[`9d65c8e`](https://github.com/felipe-sant/portfolio-frontend/commit/9d65c8e) do repositório de origem
-([release v1.4.0](https://github.com/felipe-sant/portfolio-frontend/releases/tag/v1.4.0)). O mesmo
+A versão publicada é a **v1.4.1**, gerada a partir do commit
+[`bc96e47`](https://github.com/felipe-sant/portfolio-frontend/commit/bc96e47) do repositório de origem
+([release v1.4.1](https://github.com/felipe-sant/portfolio-frontend/releases/tag/v1.4.1)). O mesmo
 dado está na mensagem do último commit deste repositório, na linha `Origem:`.
 
 ## Sobre o projeto
@@ -58,7 +58,7 @@ O código-fonte e o histórico de desenvolvimento ficam em
 repositório recebe apenas o resultado do build, na pasta `docs/`, publicado no GitHub Pages.
 
 A cada versão nova do portfólio, o workflow
-[`fatec-pages.yml`](https://github.com/felipe-sant/portfolio-frontend/blob/v1.4.0/.github/workflows/fatec-pages.yml)
+[`fatec-pages.yml`](https://github.com/felipe-sant/portfolio-frontend/blob/v1.4.1/.github/workflows/fatec-pages.yml)
 do repositório de origem gera o build e atualiza a pasta `docs/` e este `README.md` aqui. Por isso,
 **alterações feitas diretamente em `docs/` ou neste arquivo são sobrescritas** na próxima publicação.
 

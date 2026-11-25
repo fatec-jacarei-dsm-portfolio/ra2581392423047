@@ -15,7 +15,7 @@
 
 Soy desarrollador full stack junior, con foco principal en frontend, en InCicle, donde trabajo en módulos de producto de una arquitectura de micro frontends, desde la implementación de nuevas features hasta la evolución de versiones de módulos existentes. Uso React, TypeScript y Node.js en el ciclo completo, desde el relevamiento de reglas con el equipo de producto hasta el despliegue en producción. Estudio Desarrollo de Software Multiplataforma en la Fatec, en el 6.º semestre; fue en la Etec donde tuve mi primer contacto con la programación.
 
-Me gusta entender el contexto de cada entrega antes de implementar y discutir las reglas de negocio con quien define el producto. Uso herramientas de Inteligencia Artificial en el flujo de desarrollo para mantener la calidad y la organización de lo que entrego. Aprendo haciendo, en proyectos dentro y fuera del trabajo.
+Me gusta entender el contexto de cada entrega antes de implementar y discutir las reglas de negocio con quien define el producto. Organizo las entregas con equipos de agentes de IA, que planifican, implementan, revisan y prueban bajo mi coordinación, y mantengo mi propio kit de agentes para llevar este flujo a cualquier repositorio. Aprendo haciendo, en proyectos dentro y fuera del trabajo.
 
 ### Principios de trabajo
 
@@ -27,7 +27,7 @@ Me gusta entender el contexto de cada entrega antes de implementar y discutir la
 
 - Frontend: React, TypeScript, Redux, Module Federation, JavaScript, HTML5, CSS3
 - Backend: Node.js, Express, PostgreSQL, MongoDB, Redis, Python, scikit-learn, ONNX
-- Infra y herramientas: Docker, Jest, AWS, Linux, Git, GitHub Actions, Vitest, Playwright
+- Infra y herramientas: Docker, Jest, AWS, Linux, Git, GitHub Actions, Vitest, Playwright, Claude Code
 
 ## Trayectoria
 
@@ -37,7 +37,7 @@ Período: 2026-05 - actual
 
 Híbrido
 
-Actuación principalmente en frontend, con incursiones en el backend, en un squad ágil, pasando por distintos módulos de producto dentro de una arquitectura de micro frontends, desde la implementación de nuevas features hasta la evolución de versiones ya existentes. Desarrollo con React, TypeScript y Node.js, integración de APIs REST y trabajo con bases de datos SQL y NoSQL. Revisión de Pull Requests, pruebas de QA y resolución de hotfixes en producción. Uso de agentes de IA para planificar, implementar y revisar las entregas, con TDD.
+Actuación principalmente en frontend, con incursiones en el backend, en un squad ágil, pasando por distintos módulos de producto dentro de una arquitectura de micro frontends, desde la implementación de nuevas features hasta la evolución de versiones ya existentes. Desarrollo con React, TypeScript y Node.js, integración de APIs REST y trabajo con bases de datos SQL y NoSQL. Revisión de Pull Requests, pruebas de QA y resolución de hotfixes en producción. Coordinación de equipos de agentes de IA (producto, desarrollo, revisión y QA) para planificar, implementar y revisar las entregas, con TDD, y mantenimiento del kit interno de agentes y skills usado por los repositorios de la empresa.
 
 **Responsabilidades**
 
@@ -48,10 +48,12 @@ Actuación principalmente en frontend, con incursiones en el backend, en un squa
 - Ejecución de pruebas de QA en tareas propias y ajenas
 - Resolución de hotfixes urgentes en producción
 - Pruebas end-to-end automatizadas con Playwright
-- Planificación, implementación y revisión de entregas con agentes de IA, siguiendo TDD
+- Coordinación de equipos de agentes de IA en la planificación, implementación, revisión y QA de las entregas, siguiendo TDD
 - Configuración de pipelines de CI y actualización automática de dependencias
 - Preparación y seguimiento de entregas a producción
 - Mantenimiento de repositorios
+- Mantenimiento y actualización en lote del kit interno de agentes y skills de IA en los repositorios de la empresa
+- Guiones de prueba en lenguaje sencillo para QA
 
 **Tecnologías**
 
@@ -80,7 +82,7 @@ Finalización prevista en 2027
 
 6.º semestre
 
-Formación en desarrollo de software con foco en lógica de programación, POO, frameworks web y buenas prácticas de código, incluyendo proyectos académicos y en alianza con empresas.
+Formación en desarrollo de software con foco en lógica de programación, POO, frameworks web y buenas prácticas de código, incluyendo proyectos académicos y en alianza con empresas. En el 6.º semestre, fui Scrum Master y desarrollador principal de ProconChat Jacareí, un chatbot de WhatsApp hecho en alianza con el PROCON de Jacareí.
 
 **Asignaturas**
 
@@ -195,6 +197,7 @@ Actuación en el desarrollo frontend de múltiples módulos de producto (OKR, Hi
 - Revisión de Pull Requests de compañeros del squad, contribuyendo a la calidad del código del equipo.
 - Ejecución de pruebas de QA (funcionales) en tareas propias y ajenas, incluyendo rondas completas de QA preventivo que generaron decenas de tareas de corrección antes de la liberación a los clientes.
 - Implementación y mantenimiento de la configuración de agentes de IA (ai-core) en múltiples repositorios del equipo (backend y frontend), incluyendo la actualización de versión con estandarización de Gitflow y la corrección de incompatibilidades entre distintos adaptadores.
+- Coordinación de equipos de agentes de IA (producto, especificación, desarrollo, revisión y QA) en las entregas, siguiendo SDD y TDD, y conducción de la actualización de versión major del kit interno de agentes en cerca de 28 repositorios de frontend.
 - Resolución de hotfixes urgentes por pedido directo, con autonomía desde el análisis hasta la corrección en producción, reconocido por el equipo como referencia para el reporte y la resolución de bugs.
 - Participación en iniciativas de estandarización visual (dark mode / design system) usando una biblioteca de componentes compartida entre los frontends.
 
@@ -207,7 +210,7 @@ Responsable de la gestión y el control de las faltas de los grupos, con seguimi
 **Fatec – Faculdade de Tecnologia do Estado de São Paulo** (2023 – 2027) — En curso, 6.º semestre
 Tecnólogo en Desarrollo de Software Multiplataforma — finalización prevista para 2027
 
-Sólidos conocimientos en TypeScript y frameworks como React, con experiencia en bases de datos SQL y NoSQL, consumo e integración de APIs internas y externas, programación orientada a objetos y buenas prácticas de organización de código (incluyendo pruebas automatizadas). Desarrollo de proyectos académicos y en alianza con empresas utilizando la metodología ágil Scrum.
+Sólidos conocimientos en TypeScript y frameworks como React, con experiencia en bases de datos SQL y NoSQL, consumo e integración de APIs internas y externas, programación orientada a objetos y buenas prácticas de organización de código (incluyendo pruebas automatizadas). Desarrollo de proyectos académicos y en alianza con empresas utilizando la metodología ágil Scrum. En el 6.º semestre, fui Scrum Master y desarrollador principal de ProconChat Jacareí, un chatbot de WhatsApp hecho en alianza con el PROCON de Jacareí.
 
 **Etec – Escola Técnica Estadual** (2020 – 2022)
 Técnico en Desarrollo de Sistemas
@@ -216,11 +219,13 @@ Curso técnico integrado a la secundaria, con el primer contacto práctico con e
 
 ## Proyectos destacados
 
+**ProconChat Jacareí** — Chatbot de WhatsApp que orienta a los consumidores y agenda atención presencial en el PROCON de Jacareí, con panel web para el equipo, IA local (Ollama) y tratamiento de datos conforme a la LGPD. Proyecto académico en un equipo de 7 personas, en el que fui Scrum Master y desarrollador principal.
+
+**claude-kit** — Herramienta de línea de comandos que aplica un equipo de agentes de IA para Claude Code (product owner, especificación, desarrolladores, revisor y QA) en cualquier repositorio, detectando el stack sin sobrescribir lo que el proyecto ya tiene.
+
 **Player Profile Clustering** — Modelo de Machine Learning (K-Means) que clasifica atletas de fútbol en perfiles de rendimiento físico a partir de métricas de sesión, servido mediante una API en Node.js con ONNX Runtime.
 
 **MNIST Classifier** — Aplicación que reconoce dígitos manuscritos dibujados por el usuario, usando una red neuronal entrenada con el dataset MNIST (Keras/TensorFlow), con backend en Node.js y servicio de inferencia en Python/FastAPI.
-
-**Maps** — Simulador de ruta de vuelo entre dos puntos de Brasil, sorteados o elegidos por el usuario, calculando la trayectoria real con la curvatura de la Tierra y datos geográficos mediante la API del IBGE.
 
 Portafolio completo con más proyectos, código y detalles técnicos disponible en el sitio.
 
@@ -761,5 +766,184 @@ curl -X POST http://localhost:3000/api/match/predict \
   -H "Content-Type: application/json" \
   -d '{"distanceM": 9500, "highIntensityRunningM": 1200, "highIntensityEvents": 35, "sprintDistanceM": 450, "numberOfSprints": 18, "topSpeedKph": 32.5, "avgSpeedKph": 7.2, "accelerations": 40, "decelerations": 38, "metresPerMinuteM": 105, "workloadIntensity": 0.78}'
 ```
+
+---
+
+## Proyecto: ProconChat Jacareí
+
+Chatbot de WhatsApp que orienta al consumidor por los flujos del PROCON de Jacareí y agenda atención presencial, con panel web para el equipo e IA local.
+
+**Ficha técnica**
+
+- Función: Scrum Master y full stack
+- Duración: 4 meses
+- Equipo: 7 personas
+- Estado: Concluido
+- Stack - Frontend: React, TypeScript, Vite, Redux Toolkit
+- Stack - Backend: Node.js, Express, TypeScript, PostgreSQL, Ollama, WhatsApp Cloud API
+- Stack - Infra y herramientas: Vitest, Docker Compose, GitHub Actions, node-pg-migrate
+
+**Enlaces**
+
+- Repositorio: https://github.com/Steel-Hard/ProconChat_Jacarei
+- Demostración: https://3.150.166.93.sslip.io
+
+**Galería**
+
+- Pantalla de contenido del panel con la lista de categorías del chatbot y las preguntas de la categoría de cobro indebido (Contenido del chatbot editado por el equipo)
+- Vista previa de una respuesta del chatbot al estilo de WhatsApp, con base legal, documentos, aviso y botones para agendar (Respuesta al ciudadano con la etiqueta de IA)
+- Informe con el total de conversaciones del período y la división por desenlace, como resuelta y terminó en cita (Informe de desenlace de las conversaciones)
+
+**Documentación**
+
+### README.md
+
+## Contexto
+
+Proyecto académico del 6.º semestre de Desarrollo de Software Multiplataforma de la Fatec Jacareí, en alianza con el PROCON de Jacareí, el órgano municipal de defensa del consumidor. Buena parte de la demanda del PROCON viene de dudas que se repiten: qué hacer ante un cobro indebido, cuál es el plazo de arrepentimiento, qué documentos llevar. El desafío era un chatbot de WhatsApp que orientara al consumidor por los flujos definidos por el propio PROCON y, cuando la orientación no bastara, agendara una atención presencial.
+
+El desafío traía restricciones claras: usar de preferencia la API oficial de WhatsApp, no usar ninguna API externa de modelo de lenguaje, aunque fuera gratuita, y tratar los datos de los ciudadanos conforme a la LGPD, la ley brasileña de protección de datos. El trabajo lo hizo un equipo de 7 personas, en 3 sprints de Scrum, de agosto a noviembre de 2026.
+
+## Mi rol
+
+Fui el Scrum Master del equipo y el desarrollador principal: cerca de 1.550 de los casi 1.700 commits del repositorio son míos. Mantuve el tablero y los cierres de sprint, con la trazabilidad de los requisitos, y revisé los PR del equipo.
+
+En el código, trabajé en las tres partes del sistema. En el backend y en el gateway de WhatsApp, entregué cuentas con permisos granulares, la cancelación por parte del equipo con aviso al ciudadano, la reprogramación y la cancelación desde el propio chatbot, el seguimiento de los estados de entrega de Meta, la parte de LGPD y la IA en el flujo de la conversación. En el panel, hice las pantallas de Usuarios, Horarios de atención y Contenido del chatbot, entre otras. También escribí la prueba de extremo a extremo del flujo principal y los manuales en PDF entregados al PROCON. Planifiqué y revisé buena parte de las entregas con agentes de IA, en TDD.
+
+## Solución
+
+El ciudadano envía un mensaje por WhatsApp y el bot conduce la conversación con listas y botones: elige la categoría (cobro indebido, contratos, arrepentimiento, garantía), después la pregunta, y recibe la orientación con la base legal, los documentos necesarios y qué hacer a continuación. Si la duda no se resuelve, el bot ofrece los horarios libres y agenda la atención presencial, y el ciudadano puede volver después para reprogramar o cancelar.
+
+El sistema tiene cinco partes, todas en Docker Compose:
+
+- **Gateway de WhatsApp:** recibe el webhook de Meta, verifica la firma, procesa los mensajes en una cola por teléfono y envía las respuestas.
+- **Backend:** guarda el estado de la conversación, arma las respuestas a partir del contenido de la base de datos, calcula los cupos de la agenda, envía los avisos al ciudadano y sirve la API del panel.
+- **Modelo de lenguaje local:** Ollama, con `llama3.2:3b`, reescribe la explicación de la respuesta oficial en tono de conversación.
+- **PostgreSQL:** guarda contenido, agenda, conversaciones y el registro de cada paso para los informes.
+- **Panel web:** el equipo del PROCON gestiona las citas, edita el contenido del chatbot, configura horarios, documentos, usuarios y la conexión con WhatsApp, y sigue los informes.
+
+La producción corre en una VM en la nube, con HTTPS, y el despliegue sale por GitHub Actions.
+
+## Decisiones técnicas
+
+- **API oficial de WhatsApp.** En el primer sprint usamos una automatización no oficial de WhatsApp Web. Dejaba de entregar mensajes a parte de los contactos y ponía el número en riesgo de bloqueo, así que migré a la WhatsApp Cloud API antes de empezar el panel. Las credenciales de Meta se configuran desde el panel, se guardan cifradas y solo se graban después de una prueba de conexión exitosa.
+- **La IA nunca decide el flujo.** Quien elige la respuesta es el código, a partir del contenido registrado por el PROCON. El modelo solo reescribe la explicación, y el texto generado solo se usa si trae todos los números de la respuesta oficial y ningún número nuevo. Toda respuesta generada lleva la etiqueta "Gerado com auxílio de IA" (generado con ayuda de IA) y, si el modelo está caído o tarda demasiado, el ciudadano recibe el texto oficial.
+- **Datos personales guardados solo cuando hace falta.** El teléfono de la conversación se convierte en un hash, y el CPF (documento fiscal brasileño) se guarda solo como hash y en versión enmascarada. Una revisión mostró que el identificador de mensaje de Meta lleva el teléfono codificado, así que también pasó a guardarse solo como hash. El teléfono de la cita se borra cuando llega la hora, y hay una anonimización por plazo, apagada por defecto, que limpia nombres y CPF manteniendo las cifras de los informes.
+- **Concurrencia en la agenda.** La reserva y la reprogramación usan bloqueos de PostgreSQL por horario, siempre en el mismo orden, y las reglas de negocio se verifican dentro de la transacción, después del bloqueo, para que dos ciudadanos nunca se queden con el mismo cupo.
+- **Módulos lógicos, no microservicios.** El backend es un solo servicio, dividido en módulos de conversación, decisión, agenda, mensajes y panel. Solo el modelo de lenguaje tiene contenedor propio, porque carga el modelo entero en memoria.
+
+## Resultado
+
+El proyecto se entregó el 23/11/2026, con los 16 requisitos del desafío (8 funcionales y 8 no funcionales) concluidos y el sistema en producción. En el tercer sprint, 17 de las 22 entregas tenían mi nombre entre los responsables.
+
+La base de pruebas superó los 3.700 casos automatizados en Vitest entre backend, gateway y panel, con pruebas de integración corriendo contra un PostgreSQL real en el CI. La prueba de extremo a extremo simula el webhook firmado de Meta, desde el primer "hola" hasta la atención registrada en el panel, y pasó en el CI ya en la primera ejecución. Una revisión por mutación de esa prueba mostró que el CPF con formato no se verificaba, y la falla se corrigió antes del merge.
+
+Quedó claro un límite: en CPU, el modelo local tarda de 23 a 38 segundos por respuesta. Por eso el bot muestra el indicador de escribiendo mientras espera, atiende una generación a la vez y responde con el texto oficial cuando la IA está ocupada. La VM de producción no tiene memoria para el modelo, así que la versión en línea responde solo con el texto oficial, salvo que el Ollama de una máquina del equipo esté conectado por red privada.
+
+## Aprendizajes
+
+Aprendí que una prueba en verde no demuestra cobertura: solo alterar el código a propósito y ver fallar la prueba muestra que protege la regla. También aprendí que una verificación hecha fuera del bloqueo tiene que repetirse dentro de él, y que los datos personales aparecen donde menos se espera, como en el identificador de un mensaje. Como Scrum Master, vi que el final del sprint acumula entregas cuando la documentación y las pruebas quedan para después, y empecé a adelantarlas.
+
+---
+
+## Proyecto: claude-kit
+
+Kit de agentes para Claude Code que se aplica a cualquier repositorio con un comando, detecta el stack y arma un equipo con especificación, TDD y revisión.
+
+**Ficha técnica**
+
+- Función: Autor y mantenedor
+- Duración: 1 semana
+- Equipo: Solo
+- Estado: En desarrollo
+- Stack - Backend: Node.js, JavaScript
+- Stack - Infra y herramientas: Claude Code, GitHub Actions, oxlint
+
+**Enlaces**
+
+- Repositorio: https://github.com/felipe-sant/claude-kit
+
+**Galería**
+
+- Diagrama de ai-sync grabando agentes, reglas y skills en .claude/ y de la orchestrator delegando al product-owner, a los devs, al reviewer y al qa (Flujo del equipo de agentes)
+
+**Documentación**
+
+### README.md
+
+## Contexto
+
+Uso Claude Code todos los días, en varios repositorios, y repetía en cada uno la misma configuración: agentes, reglas de código, skills y ajustes del `settings.json`. Con el tiempo cada copia se volvía distinta de las demás, y una mejora hecha en un proyecto no llegaba a los otros. Inspirado en mi experiencia de trabajo con equipos de agentes, creé un kit personal que lleva ese equipo a cualquier repositorio con un solo comando.
+
+## Mi rol
+
+Hice el proyecto solo: el comando `ai-sync`, el contenido de los agentes, las reglas y las skills, las pruebas, el lint y la automatización en GitHub Actions. El propio kit se desarrolla con el equipo que instala, y los problemas que aparecen cuando uso el equipo en otros proyectos se convierten en issues en el repositorio.
+
+## Solución
+
+`ai-sync` es un script en Node.js que recibe la ruta del repositorio de destino. Lee el `package.json` y el `composer.json` de la raíz y de las carpetas de primer nivel, detecta el stack (React, NestJS, Laravel o AdonisJS) y copia en la carpeta `.claude/` los agentes, las reglas y las skills que sirven a ese proyecto, además de una configuración base de Claude Code. Quien prefiere elegir a mano usa un perfil (`default`, `frontend`, `backend` o `tooling`).
+
+Después de la sincronización, basta con abrir Claude Code y ejecutar `/team-setup`. La skill convierte la sesión principal en la orquestadora: conversa con el usuario, arma el equipo de cada tarea y solo delega. El flujo pasa por el `product-owner`, que define reglas y alcance, por el `sdd`, que escribe la especificación, por los devs (frontend, backend, mobile, base de datos, devops, fullstack y documentación), que implementan con TDD y delegan las tareas mecánicas al `executor`, y por el `reviewer`, obligatorio siempre que hay un dev en el equipo. El `qa` y el `designer` entran cuando la tarea lo pide.
+
+El equipo guarda una memoria por repositorio, solo con lo que sigue vigente después de la tarea, y puede funcionar como subagentes o, de forma opcional, como equipo de agentes que intercambian mensajes entre sí. En el repositorio del kit, un agente en GitHub Actions clasifica las issues abiertas por tamaño y abre pull request solo de las pequeñas.
+
+```bash
+node ~/claude-kit/bin/ai-sync.js /ruta/del/repositorio
+```
+
+## Decisiones técnicas
+
+- **Una sincronización que no borra el trabajo de nadie.** `ai-sync` registra en un archivo de lock la ruta, la versión y la huella digital (SHA-256) de cada archivo instalado. Un archivo editado por el usuario nunca se sobrescribe ni se elimina; la herramienta solo avisa que hay una versión nueva. Sobrescribir exige `--force`, de forma explícita.
+- **Un único punto de registro.** Cada agente, regla, skill y stack está en `catalog.json`, con la regla de a qué proyectos se aplica. El lint y las pruebas comprueban que catálogo, archivos y perfiles sean coherentes.
+- **Orquestadora como skill, no como agente.** Al principio la orquestadora era un agente abierto con `--agent`. La cambié por una skill cargada en la sesión principal, lo que deja una sola fuente para el rol y usa el modelo que la sesión ya tiene.
+- **Configuración base sin permisos amplios.** La plantilla de `settings.json` no habilita comandos ni directorios, y el lint rechaza cualquier plantilla que lo intente. Lo que el usuario ya definió nunca se modifica: lo que difiere aparece como sugerencia.
+- **El kit se aplica a sí mismo.** Un hook de pre-commit sincroniza el `.claude/` del propio repositorio en cada commit, y una prueba en el CI rechaza la copia desactualizada.
+- **Agente de issues con acceso mínimo.** Solo lee el texto de quienes colaboran en el repositorio, solo ejecuta comandos de una lista cerrada, tiene la acción fijada por el hash del commit y nunca hace merge.
+
+## Resultado
+
+En cinco días de desarrollo, el repositorio llegó a 196 commits, 30 pull requests aceptados y 41 issues registradas, 38 de ellas ya cerradas. Buena parte de esas issues surgió del uso real del equipo en otros proyectos. El kit entrega 13 agentes, 11 reglas (7 generales y 4 por stack), 8 skills y 4 perfiles, cubiertos por 241 pruebas automatizadas que pasan. Ya está sincronizado en el repositorio de ProconChat, un proyecto de la facultad, y en el repositorio que uso para registrar mis entregas semanales.
+
+## Aprendizajes
+
+- Una instrucción que se contradice dentro del mismo prompt deja al agente sin saber qué orden vale. La solución es una excepción explícita y acotada, no elegir una de las dos.
+- `git commit -- ruta` arma un índice temporal. Un hook que regenera archivos a partir de la carpeta mezcla el trabajo de agentes que comparten la misma worktree; la validación segura compara con el stage exportado.
+- El contenido en markdown también merece TDD: la prueba que falla primero muestra si el texto nuevo realmente cubre el hueco en el comportamiento del agente.
+- Un repositorio que se aplica a sí mismo es una buena prueba de sus propias reglas y evita que la copia en uso se quede atrás.
+
+---
+
+### SETUP.md
+
+## Requisitos previos
+
+Node.js 22 o más reciente y Claude Code instalado. Clona [claude-kit](https://github.com/felipe-sant/claude-kit) en una carpeta fuera del repositorio que va a recibir el equipo:
+
+```bash
+git clone https://github.com/felipe-sant/claude-kit.git ~/claude-kit
+```
+
+## Aplicar en un repositorio
+
+```bash
+node ~/claude-kit/bin/ai-sync.js /ruta/del/repositorio
+```
+
+Dentro del propio repositorio, la ruta se puede omitir. Al final, `ai-sync` muestra los stacks detectados y lo que se creó, actualizó, eliminó y mantuvo. Versiona el archivo `.claude/claude-core.lock.json` junto con el repositorio.
+
+## Armar el equipo
+
+Abre Claude Code en el repositorio y ejecuta `/team-setup`. La sesión principal pasa a ser la orquestadora: pregunta los nombres del equipo, propone quién participa en cada tarea y confirma antes de delegar.
+
+## Opciones
+
+| Opción             | Qué hace                                                                                                          |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| `--profile nombre` | Aplica un perfil elegido a mano (`default`, `frontend`, `backend` o `tooling`) en lugar de la detección de stack. |
+| `--force`          | Reinstala también los archivos que se editaron en el repositorio.                                                 |
+| `--teams`          | Activa el modo experimental de equipo de agentes, solo en la configuración local. `--no-teams` lo desactiva.      |
+| `--check`          | Comprueba que el catálogo, los archivos y los perfiles del kit sean coherentes, sin aplicar nada.                 |
+
+Los repositorios de herramientas, scripts y contenido, sin stack detectable, usan `--profile tooling`.
 
 ---

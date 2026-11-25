@@ -21,6 +21,8 @@ Español: Soy Luiz Felipe dos Santos, desarrollador full stack junior, con actua
 - [Controle de Despesas](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a13216-9960-7a66-8288-462bf96ec9a5): Aplicação de controle de despesas pessoais com CRUD completo — criar, listar, editar e excluir — usando MongoDB.
 - [Conversor de Unidades](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a13229-0594-7b2f-a012-ecf61257f6ad): Conversor de unidades de comprimento, peso e temperatura, com interface simples e troca rápida entre unidade de origem e destino.
 - [Player Profile Clustering](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a1323d-b9bc-73c0-8bac-2e93e30ee193): Modelo de Machine Learning (K-Means) que classifica atletas de futebol em perfis de desempenho físico a partir de métricas de sessão, servido via API com ONNX.
+- [ProconChat Jacareí](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a210bc-22e7-7c28-81a6-6ff53112a53e): Chatbot de WhatsApp que orienta o consumidor pelos fluxos do PROCON de Jacareí e agenda atendimento presencial, com painel web para a equipe e IA local.
+- [claude-kit](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/pt-BR/projects/01a210bc-22e8-74ca-a12f-b9b943b77821): Kit de agentes para o Claude Code que se aplica a qualquer repositório com um comando, detecta a stack e monta um time com especificação, TDD e revisão.
 
 ## Currículo (Português)
 
@@ -46,6 +48,8 @@ Español: Soy Luiz Felipe dos Santos, desarrollador full stack junior, con actua
 - [Expense Control](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a13216-9960-7a66-8288-462bf96ec9a5): Personal expense tracking application with full CRUD (create, list, edit and delete) using MongoDB.
 - [Unit Converter](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a13229-0594-7b2f-a012-ecf61257f6ad): Unit converter for length, weight and temperature, with a simple interface and quick switching between source and target unit.
 - [Player Profile Clustering](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a1323d-b9bc-73c0-8bac-2e93e30ee193): Machine Learning model (K-Means) that classifies soccer athletes into physical performance profiles from session metrics, served via API with ONNX.
+- [ProconChat Jacareí](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a210bc-22e7-7c28-81a6-6ff53112a53e): WhatsApp chatbot that guides consumers through PROCON Jacareí's flows and books in-person appointments, with a web panel for the staff and local AI.
+- [claude-kit](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/en/projects/01a210bc-22e8-74ca-a12f-b9b943b77821): Agent kit for Claude Code that applies to any repository with one command, detects the stack and sets up a team with specs, TDD and review.
 
 ## Resume (English)
 
@@ -71,6 +75,8 @@ Español: Soy Luiz Felipe dos Santos, desarrollador full stack junior, con actua
 - [Control de Gastos](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a13216-9960-7a66-8288-462bf96ec9a5): Aplicación de control de gastos personales con CRUD completo (crear, listar, editar y eliminar) usando MongoDB.
 - [Conversor de Unidades](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a13229-0594-7b2f-a012-ecf61257f6ad): Conversor de unidades de longitud, peso y temperatura, con interfaz simple e intercambio rápido entre unidad de origen y destino.
 - [Player Profile Clustering](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a1323d-b9bc-73c0-8bac-2e93e30ee193): Modelo de Machine Learning (K-Means) que clasifica atletas de fútbol en perfiles de rendimiento físico a partir de métricas de sesión, servido vía API con ONNX.
+- [ProconChat Jacareí](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a210bc-22e7-7c28-81a6-6ff53112a53e): Chatbot de WhatsApp que orienta al consumidor por los flujos del PROCON de Jacareí y agenda atención presencial, con panel web para el equipo e IA local.
+- [claude-kit](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/es/projects/01a210bc-22e8-74ca-a12f-b9b943b77821): Kit de agentes para Claude Code que se aplica a cualquier repositorio con un comando, detecta el stack y arma un equipo con especificación, TDD y revisión.
 
 ## Currículum (Español)
 
